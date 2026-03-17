@@ -1,0 +1,242 @@
+[
+    {
+        "date": "2026-03-18",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 1 AI Trend Content",
+        "report_file": "reports/day_2026-03-18_plan.md",
+        "image_path": "images/day_2026-03-18.png"
+    },
+    {
+        "date": "2026-03-19",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 2 AI Trend Content",
+        "report_file": "reports/day_2026-03-19_plan.md",
+        "image_path": "images/day_2026-03-19.png"
+    },
+    {
+        "date": "2026-03-20",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 3 AI Trend Content",
+        "report_file": "reports/day_2026-03-20_plan.md",
+        "image_path": "images/day_2026-03-20.png"
+    },
+    {
+        "date": "2026-03-21",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 4 AI Trend Content",
+        "report_file": "reports/day_2026-03-21_plan.md",
+        "image_path": "images/day_2026-03-21.png"
+    },
+    {
+        "date": "2026-03-22",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 5 AI Trend Content",
+        "report_file": "reports/day_2026-03-22_plan.md",
+        "image_path": "images/day_2026-03-22.png"
+    },
+    {
+        "date": "2026-03-23",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 6 AI Trend Content",
+        "report_file": "reports/day_2026-03-23_plan.md",
+        "image_path": "images/day_2026-03-23.png"
+    },
+    {
+        "date": "2026-03-24",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 7 AI Trend Content",
+        "report_file": "reports/day_2026-03-24_plan.md",
+        "image_path": "images/day_2026-03-24.png"
+    },
+    {
+        "date": "2026-03-25",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 8 AI Trend Content",
+        "report_file": "reports/day_2026-03-25_plan.md",
+        "image_path": "images/day_2026-03-25.png"
+    },
+    {
+        "date": "2026-03-26",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 9 AI Trend Content",
+        "report_file": "reports/day_2026-03-26_plan.md",
+        "image_path": "images/day_2026-03-26.png"
+    },
+    {
+        "date": "2026-03-27",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 10 AI Trend Content",
+        "report_file": "reports/day_2026-03-27_plan.md",
+        "image_path": "images/day_2026-03-27.png"
+    },
+    {
+        "date": "2026-03-28",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 11 AI Trend Content",
+        "report_file": "reports/day_2026-03-28_plan.md",
+        "image_path": "images/day_2026-03-28.png"
+    },
+    {
+        "date": "2026-03-29",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 12 AI Trend Content",
+        "report_file": "reports/day_2026-03-29_plan.md",
+        "image_path": "images/day_2026-03-29.png"
+    },
+    {
+        "date": "2026-03-30",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 13 AI Trend Content",
+        "report_file": "reports/day_2026-03-30_plan.md",
+        "image_path": "images/day_2026-03-30.png"
+    },
+    {
+        "date": "2026-03-31",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 14 AI Trend Content",
+        "report_file": "reports/day_2026-03-31_plan.md",
+        "image_path": "images/day_2026-03-31.png"
+    },
+    {
+        "date": "2026-04-01",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 15 AI Trend Content",
+        "report_file": "reports/day_2026-04-01_plan.md",
+        "image_path": "images/day_2026-04-01.png"
+    },
+    {
+        "date": "2026-04-02",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 16 AI Trend Content",
+        "report_file": "reports/day_2026-04-02_plan.md",
+        "image_path": "images/day_2026-04-02.png"
+    },
+    {
+        "date": "2026-04-03",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 17 AI Trend Content",
+        "report_file": "reports/day_2026-04-03_plan.md",
+        "image_path": "images/day_2026-04-03.png"
+    },
+    {
+        "date": "2026-04-04",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 18 AI Trend Content",
+        "report_file": "reports/day_2026-04-04_plan.md",
+        "image_path": "images/day_2026-04-04.png"
+    },
+    {
+        "date": "2026-04-05",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 19 AI Trend Content",
+        "report_file": "reports/day_2026-04-05_plan.md",
+        "image_path": "images/day_2026-04-05.png"
+    },
+    {
+        "date": "2026-04-06",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 20 AI Trend Content",
+        "report_file": "reports/day_2026-04-06_plan.md",
+        "image_path": "images/day_2026-04-06.png"
+    },
+    {
+        "date": "2026-04-07",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 21 AI Trend Content",
+        "report_file": "reports/day_2026-04-07_plan.md",
+        "image_path": "images/day_2026-04-07.png"
+    },
+    {
+        "date": "2026-04-08",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 22 AI Trend Content",
+        "report_file": "reports/day_2026-04-08_plan.md",
+        "image_path": "images/day_2026-04-08.png"
+    },
+    {
+        "date": "2026-04-09",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 23 AI Trend Content",
+        "report_file": "reports/day_2026-04-09_plan.md",
+        "image_path": "images/day_2026-04-09.png"
+    },
+    {
+        "date": "2026-04-10",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 24 AI Trend Content",
+        "report_file": "reports/day_2026-04-10_plan.md",
+        "image_path": "images/day_2026-04-10.png"
+    },
+    {
+        "date": "2026-04-11",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 25 AI Trend Content",
+        "report_file": "reports/day_2026-04-11_plan.md",
+        "image_path": "images/day_2026-04-11.png"
+    },
+    {
+        "date": "2026-04-12",
+        "time": "14:00",
+        "status": "scheduled",
+        "topic": "Day 26 AI Trend Content",
+        "report_file": "reports/day_2026-04-12_plan.md",
+        "image_path": "images/day_2026-04-12.png"
+    },
+    {
+        "date": "2026-04-13",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 27 AI Trend Content",
+        "report_file": "reports/day_2026-04-13_plan.md",
+        "image_path": "images/day_2026-04-13.png"
+    },
+    {
+        "date": "2026-04-14",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 28 AI Trend Content",
+        "report_file": "reports/day_2026-04-14_plan.md",
+        "image_path": "images/day_2026-04-14.png"
+    },
+    {
+        "date": "2026-04-15",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 29 AI Trend Content",
+        "report_file": "reports/day_2026-04-15_plan.md",
+        "image_path": "images/day_2026-04-15.png"
+    },
+    {
+        "date": "2026-04-16",
+        "time": "19:00",
+        "status": "scheduled",
+        "topic": "Day 30 AI Trend Content",
+        "report_file": "reports/day_2026-04-16_plan.md",
+        "image_path": "images/day_2026-04-16.png"
+    }
+]
