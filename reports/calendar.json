@@ -2,25 +2,28 @@
     {
         "date": "2026-03-18",
         "time": "19:00",
-        "status": "scheduled",
+        "status": "completed",
         "topic": "Day 1 AI Trend Content",
         "report_file": "reports/day_2026-03-18_plan.md",
-        "image_path": "images/day_2026-03-18.png"
+        "image_path": "images/day_2026-03-18.png",
+        "post_id": "18095913092085703"
     },
     {
         "date": "2026-03-19",
         "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 2 AI Trend Content",
-        "report_file": "reports/day_2026-03-19_plan.md",
-        "image_path": "images/day_2026-03-19.png"
+        "status": "completed",
+        "topic": "무조건 저장하게 만드는 'Save-Stack' 인포그래픽",
+        "strategy": "Save-Stack",
+        "report_file": "reports/day_2026-03-19_report.md",
+        "image_path": "images/day_2026-03-19.png",
+        "post_id": "18122543560593667"
     },
     {
         "date": "2026-03-20",
         "time": "19:00",
         "status": "scheduled",
-        "topic": "Day 3 AI Trend Content",
-        "report_file": "reports/day_2026-03-20_plan.md",
+        "topic": "감성적 연결: AI 시대의 'Human-Connect' 포트레이트",
+        "strategy": "Human-Connect",
         "image_path": "images/day_2026-03-20.png"
     },
     {
