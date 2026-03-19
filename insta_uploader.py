@@ -141,3 +141,7 @@ class InstaUploader:
             return None
             
         return publish_res.get("id")
+
+    def upload_video_url(self, video_url, caption=""):
+        """비디오 URL을 직접 인스타그램 릴스로 업로드합니다."""
+        return self.upload_reels(video_url, caption)

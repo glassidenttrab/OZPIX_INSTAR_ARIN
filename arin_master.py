@@ -104,8 +104,8 @@ class ArinMasterAgent:
                 # 4. 캡션 생성
                 caption = self.generate_optimized_caption(item["topic"], strategy)
                 
-                # 5. 최종 업로드
-                print(f"🚀 인스타그램 업로드 시도 중...")
+                # 5. 최종 업로드 (Kling AI 연동은 추후 진행을 위해 분리)
+                print(f"🚀 인스타그램 이미지 업로드 시도 중...")
                 post_id = self.uploader.upload_image(image_path, caption)
                 
                 if post_id:
