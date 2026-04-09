@@ -1,245 +1,1235 @@
 [
     {
-        "date": "2026-03-18",
-        "time": "19:00",
+        "date": "2026-03-23",
+        "time": "10:00",
         "status": "completed",
-        "topic": "Day 1 AI Trend Content",
-        "report_file": "reports/day_2026-03-18_plan.md",
-        "image_path": "images/day_2026-03-18.png",
-        "post_id": "18095913092085703"
-    },
-    {
-        "date": "2026-03-19",
-        "time": "19:00",
-        "status": "completed",
-        "topic": "무조건 저장하게 만드는 'Save-Stack' 인포그래픽",
-        "strategy": "Emotional-Depth: 깊은 서사를 담은 정적인 분위기",
-        "report_file": "reports/day_2026-03-19_report.md",
-        "image_path": "images/day_2026-03-19.png",
-        "post_id": "17980747592988577"
-    },
-    {
-        "date": "2026-03-20",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "감성적 연결: AI 시대의 'Human-Connect' 포트레이트",
-        "strategy": "Human-Connect",
-        "image_path": "images/day_2026-03-20.png"
-    },
-    {
-        "date": "2026-03-21",
-        "time": "14:00",
-        "status": "scheduled",
-        "topic": "Day 4 AI Trend Content",
-        "report_file": "reports/day_2026-03-21_plan.md",
-        "image_path": "images/day_2026-03-21.png"
-    },
-    {
-        "date": "2026-03-22",
-        "time": "14:00",
-        "status": "scheduled",
-        "topic": "Day 5 AI Trend Content",
-        "report_file": "reports/day_2026-03-22_plan.md",
-        "image_path": "images/day_2026-03-22.png"
+        "topic": "Day 1 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-23_1000_plan.md",
+        "image_path": "images/day_2026-03-23_1000.png",
+        "post_id": "18092825522323083"
     },
     {
         "date": "2026-03-23",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 6 AI Trend Content",
-        "report_file": "reports/day_2026-03-23_plan.md",
-        "image_path": "images/day_2026-03-23.png"
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 1 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-23_1600_plan.md",
+        "image_path": "images/day_2026-03-23_1600.png",
+        "post_id": "17972640971856605"
+    },
+    {
+        "date": "2026-03-23",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 1 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-23_2200_plan.md",
+        "image_path": "images/day_2026-03-23_2200.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, intricate digital render of a sprawling metropolitan cityscape at 10 PM, with glowing data streams intertwining through sleek, modern buildings like neural pathways. The dark, night sky is illuminated by nascent, pulsating digital aurora borealis patterns in electric blues and purples. In the foreground, a singular, luminous AI core or icon begins to emit a gentle, far-reaching ripple of light, signifying the birth of a new trend. Integrated holographic displays on buildings show abstract AI data patterns. High detail, sharp focus, ethereal yet grounded, with a sense of impending innovation.",
+            "theme": "AI 트렌드의 새벽: 밤 10시의 서막",
+            "description": "새로운 AI 트렌드가 시작되는 밤 10시, 디지털 세계의 문이 열립니다. 잠재된 가능성이 깨어나고, 알 수 없는 미래가 펼쳐지는 그 순간을 포착했습니다. AI가 주도할 새로운 흐름의 첫 페이지를 함께 지켜보세요. 이 이미지는 단순한 시작이 아닌, 혁신과 연결의 서막을 알립니다. 기술과 상상력이 결합된 새로운 시대의 도래를 알리는 신호탄입니다. 과연 어떤 AI 트렌드가 우리를 기다리고 있을까요?",
+            "style": "Neo-Cyberpunk Digital Dreamscape",
+            "atmosphere": "Mysterious and awe-inspiring, with an underlying sense of exciting potential and impending digital evolution. A futuristic metropolis at the cusp of a groundbreaking innovation.",
+            "lighting": "Deep, contrasting shadows illuminated by vibrant neon glows from integrated holographic displays and pulsating ethereal data streams. Soft, yet intense light emanating from the central AI core, creating a halo effect. Dark blue and purple ambient tones with sharp electric blues and greens for highlights.",
+            "detail": "A faint, almost imperceptible digital ripple effect emanating from the core AI symbol, subtly distorting the surrounding light and data streams, hinting at its far-reaching influence."
+        },
+        "post_id": "18193134376359775"
     },
     {
         "date": "2026-03-24",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 7 AI Trend Content",
-        "report_file": "reports/day_2026-03-24_plan.md",
-        "image_path": "images/day_2026-03-24.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 2 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-24_1000_plan.md",
+        "image_path": "images/day_2026-03-24_1000.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, high-resolution shot of a sophisticated, minimalist AI research desk at 10:00 AM. The scene is bathed in soft, diffused morning light filtering through large, panoramic windows, subtly highlighting dust motes in the air. On the desk, a sleek, translucent holographic interface displays intricate, live AI trend data visualizations, charts, and news feeds in glowing blues, purples, and whites. A single, elegant hand (gender neutral, diverse skin tone) gently gestures over the interface, interacting with the data. The background features a blurred, futuristic cityscape, suggesting an advanced urban environment. The overall aesthetic is clean, inspiring, and technologically advanced, with subtle reflections and ethereal light effects. Focus on sharp detail, dynamic yet calm composition, and a sense of innovation.",
+            "theme": "AI 트렌드 2일차: 오전 10시 심층 분석",
+            "description": "이 이미지는 오전 10시의 차분하면서도 역동적인 분위기를 포착합니다. 넓은 파노라마 창을 통해 스며드는 부드러운 아침 햇살이 하이테크 연구실 또는 미래형 오피스의 미니멀하고 세련된 책상을 비춥니다. 책상 위에는 투명한 홀로그램 인터페이스가 펼쳐져 있으며, 파란색, 보라색, 흰색 계열의 빛으로 복잡한 AI 트렌드 데이터 시각화와 실시간 분석을 보여줍니다. 유려한 손이 인터페이스 위에서 데이터를 조작하며 미래 기술과의 자연스러운 상호작용을 암시합니다. 배경에는 흐릿하게 처리된 미래 도시의 스카이라인이 펼쳐져 혁신적인 환경을 강조합니다. 전체적으로 평온하면서도 진취적인, 깊이 있는 지식 탐구의 '바이브'가 느껴집니다.",
+            "style": "Neo-futuristic Minimalism",
+            "atmosphere": "고요하면서도 영감을 주는, 최첨단 지식 탐구의 공간. 이른 아침의 차분함 속에 숨겨진 기술적 역동성과 혁신적인 미래를 향한 집중이 느껴집니다.",
+            "lighting": "넓은 창을 통해 들어오는 부드럽고 확산된 아침 햇살과 홀로그램 인터페이스에서 발산되는 푸른색, 보라색, 흰색의 차가운 인공 조명이 조화를 이룹니다. 전체적으로 밝고 맑은 느낌이며, 새벽의 따뜻한 기운이 약간 감도는 미묘한 색상 대비를 이룹니다.",
+            "detail": "공중에 떠다니는 듯한 홀로그램 데이터 스트림, 책상 표면에 비치는 섬세한 빛의 반사."
+        },
+        "post_id": "17856983367681459"
+    },
+    {
+        "date": "2026-03-24",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 2 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-24_1600_plan.md",
+        "image_path": "images/day_2026-03-24_1600.png",
+        "metadata": {
+            "prompt": "A dynamic, immersive digital data scape, a hub of evolving insights, dynamic and forward-thinking, rendered in a Digital-Neo Futurism art style. Ambient bioluminescent glows emanate from complex data streams, with sharp analytical spotlights highlighting key, newly emerging insights from Day 2 AI trends. Deep shadows create depth and mystery. Focus on a shimmering, interconnected web of data streams converging into a single, pulsating core of emergent insight at 16:00, symbolizing new discoveries and connections in AI advancements. Ultra-detailed, cinematic, high resolution.",
+            "theme": "AI 트렌드 2일차: 오후 4시, 데이터 심층 분석의 순간",
+            "description": "인스타그램 AI 트렌드 콘텐츠 2일차 오후 4시, 하루 중 가장 심오하고 새로운 통찰이 터져 나오는 순간을 포착합니다. 실시간 데이터 스트림이 복잡하게 얽히며 예측 불가능했던 패턴을 드러내고, 인공지능이 다음 단계를 향해 나아가는 결정적인 지점을 시각적으로 표현합니다. 단순한 데이터 시각화를 넘어, AI 발전의 흐름 속에서 발견되는 깊이 있는 이야기와 미래적 비전을 담아냅니다. 사용자들이 AI 트렌드의 '현재'와 '미래'를 동시에 엿볼 수 있도록, 정보성과 시각적 매력을 극대화한 콘텐츠를 제안합니다.",
+            "style": "Digital-Neo Futurism",
+            "atmosphere": "Immersive digital data scape, a hub of evolving insights, dynamic and forward-thinking.",
+            "lighting": "Ambient bioluminescent glows from data streams, sharp analytical spotlights highlighting key insights, deep shadows creating depth and mystery.",
+            "detail": "A shimmering, interconnected web of data streams converging into a single, pulsating core of emergent insight."
+        },
+        "post_id": "17966915633892128"
+    },
+    {
+        "date": "2026-03-24",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 2 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-24_2200_plan.md",
+        "image_path": "images/day_2026-03-24_2200.png",
+        "metadata": {
+            "prompt": "A breathtaking futuristic cityscape at 22:00, infused with advanced AI technology. Towering skyscrapers glow with intricate data patterns and holographic projections, displaying real-time AI trend analysis. A lone, contemplative figure, perhaps a data scientist or AI architect, stands on a rooftop garden, silhouetted against the cybernetic glow, observing the complex interplay of light and information. The scene is hyperrealistic, with detailed reflections and deep, rich colors. The mood is profound and innovative, capturing the silent, powerful evolution of artificial intelligence.",
+            "theme": "밤 10시, AI 트렌드: 데이터 심해의 탐험",
+            "description": "두 번째 날 밤 10시, 인공지능 트렌드가 도시의 심장부에서 빛나는 순간을 포착합니다. 첨단 AI 기술이 스며든 미래형 도시 야경을 배경으로, 데이터가 살아있는 빛의 형태로 흐르는 모습을 상상해 보세요. 홀로그램 인터페이스와 복잡한 데이터 패턴이 밤하늘을 수놓고, 이 모든 것을 한 명의 인물이 조용히 관찰하고 있습니다. AI가 단순한 도구를 넘어 삶의 일부로 깊이 스며들고 있음을 보여주며, 기술의 발전이 가져올 무한한 가능성과 동시에 사색적인 분위기를 연출합니다. 깊고 풍부한 색감과 초현실적인 디테일이 AI의 진화를 섬세하게 표현합니다.",
+            "style": "Hyperreal Sci-Fi Noir",
+            "atmosphere": "A sprawling, rain-slicked futuristic metropolis at deep night, filled with glowing data streams and towering AI-controlled structures. The mood is one of profound contemplation and silent innovation, tinged with a sense of the vast, unknown future.",
+            "lighting": "Dominant soft, emanating glows from holographic interfaces and data projections, contrasting with sharp, deep blues and purples of the night sky. Subtle reflections on wet surfaces (rain-slicked streets/rooftops). Backlighting from distant skyscrapers, creating dramatic silhouettes. Emphasize a luminous quality in the AI elements.",
+            "detail": "The intricate, pulsating patterns of the holographic data streams flowing across the skyscrapers, subtly shifting to reflect real-time AI trend insights, visible in the reflection on a single droplet of rain on the rooftop railing."
+        },
+        "post_id": "17911241544353773"
     },
     {
         "date": "2026-03-25",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 8 AI Trend Content",
-        "report_file": "reports/day_2026-03-25_plan.md",
-        "image_path": "images/day_2026-03-25.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 3 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-25_1000_plan.md",
+        "image_path": "images/day_2026-03-25_1000.png",
+        "metadata": {
+            "prompt": "A dynamic, high-resolution digital art piece illustrating the essence of 'Day 3 AI Trend Content (10:00)'. The scene features a central, glowing holographic display radiating complex data streams and interconnected nodes, symbolizing the latest AI trends. In the background, subtly integrated futuristic cityscapes and abstract digital interfaces suggest the broader impact of AI. The foreground shows stylized, ephemeral content elements (e.g., AI-generated art, viral short videos represented as flowing light patterns) interacting with human silhouettes reaching towards them, indicating engagement. The overall aesthetic is techno-futuristic with elements of data visualization and ethereal light. Focus on rapid progression and discovery, with a sense of morning's fresh insights and high energy.",
+            "theme": "오전 10시, 3일차 AI 트렌드: 혁신의 아침",
+            "description": "3일차 AI 트렌드 콘텐츠의 오전 10시는 단순한 시간이 아닙니다. 빠르게 변화하는 AI 기술의 진화를 보여주는 중요한 순간입니다. 이 콘텐츠는 AI가 만들어내는 새로운 콘텐츠 형식, 사용자 참여 방식, 그리고 미래 기술의 방향성을 탐구합니다. 시청자들은 마치 미지의 디지털 세계로 빨려 들어가는 듯한 몰입감을 느끼며, 최신 AI 혁신의 심장 박동을 생생하게 경험하게 될 것입니다. 데이터 시각화와 인터랙티브 요소들이 결합되어, 매일 아침 10시 새로운 트렌드를 제시하는 AI의 놀라운 능력을 보여줍니다. 혁신적인 아이디어와 영감이 샘솟는 아침의 에너지를 담아, AI 트렌드의 최전선을 조명합니다.",
+            "style": "Techno-Futurism",
+            "atmosphere": "Dynamic digital realm at the cusp of innovation, embodying a sense of discovery and rapid progression, with a vibrant, forward-looking mood.",
+            "lighting": "Dramatic interplay of soft ambient glows from data streams and sharp, focused spotlights on key technological elements. Predominantly cool blues, purples, and electric greens, with occasional warm accents highlighting human interaction points. A subtle, rising morning light effect enhances the sense of new beginnings.",
+            "detail": "A single, perfectly rendered holographic data point momentarily stabilizing before dissipating into a complex network, symbolizing fleeting trends and constant evolution within the AI landscape."
+        },
+        "post_id": "18017351483826596"
+    },
+    {
+        "date": "2026-03-25",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 3 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-25_1600_plan.md",
+        "image_path": "images/day_2026-03-25_1600.png",
+        "metadata": {
+            "prompt": "A highly detailed, dynamic cityscape at 4 PM, showcasing the peak of the 'Day 3 AI Trend Content' wave. Holographic data streams and intricate neural networks pulse with vibrant blues and purples, projected onto futuristic skyscrapers and intelligent public spaces. People, diverse and engaged, interact seamlessly with advanced AI interfaces on their smart devices, their faces illuminated by the soft glow of data. The scene buzzes with intellectual curiosity and a sense of shared discovery, blending urban innovation with subtle organic elements like digital foliage. Emphasize the flow of real-time insights and predictions, creating a visually stunning representation of evolving digital intelligence.",
+            "theme": "AI 트렌드 3일차: 오후 4시의 통찰",
+            "description": "AI 트렌드 대장정의 3일차, 오후 4시! 지금 우리는 단순한 흐름을 넘어, AI가 만들어내는 심층적인 패턴과 미래 예측을 목격하고 있습니다. 급변하는 디지털 환경 속에서 AI가 어떻게 우리의 일상과 비즈니스에 혁신을 가져오고 있는지, 그리고 다음 단계는 무엇인지에 대한 핵심 인사이트를 집중 조명합니다. 최신 데이터를 기반으로 한 분석과 전문가 의견을 통해, 미래를 선도할 영감을 얻어가세요. #AI트렌드 #미래기술 #데이터인사이트 #AI혁신",
+            "style": "데이터스케이프 퓨처리즘",
+            "atmosphere": "활기찬 도시의 오후, 혁신적인 에너지가 넘치며, 미래에 대한 통찰과 발견의 기대감이 가득함.",
+            "lighting": "도시의 황혼 직전, 따뜻한 주황색 노을과 대비되는 시원한 푸른색 및 보라색의 홀로그램 데이터 빛. 건물과 인터페이스에서 뿜어져 나오는 부드러운 네온 조명이 전체적인 분위기를 밝힘.",
+            "detail": "공중을 부유하는 홀로그램 디스플레이에서 실시간으로 업데이트되는 'Top 3 AI Trends' 리스트, 그 중에서도 가장 주목받는 키워드가 역동적으로 반짝이는 모습."
+        },
+        "post_id": "18184530121370798"
+    },
+    {
+        "date": "2026-03-25",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 3 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-25_2200_plan.md",
+        "image_path": "images/day_2026-03-25_2200.png",
+        "metadata": {
+            "prompt": "A lone human silhouette stands before a panoramic window overlooking a futuristic, neon-lit cityscape at 22:00. Inside, complex holographic data projections of AI trends from 'Day 3' swirl around them, illustrating intricate algorithms and deep learning insights. The atmosphere is reflective yet awe-inspiring, with a sense of quiet innovation. The reflections of the city lights and AI data are subtly visible on the polished floor, creating a mesmerizing visual tapestry. Style is Neo-Futuristic Data-Art.",
+            "theme": "밤 10시, AI 트렌드의 심연: 3일차 데이터의 속삭임",
+            "description": "깊은 밤 10시, AI 트렌드의 변화를 심도 깊게 탐구하는 시간입니다. 3일차에 접어든 AI 기술과 그 영향력을 시각적으로 표현했습니다. 고층 빌딩 너머로 펼쳐진 미래 도시의 야경과 함께, 복잡한 데이터 흐름이 홀로그램으로 공간을 채웁니다. 이는 단순한 정보가 아닌, AI가 만들어낼 미래 사회의 비전과 인간의 역할을 성찰하게 합니다. 조용하지만 강렬한 인사이트를 전달하는 이미지입니다.",
+            "style": "Neo-Futuristic Data-Art",
+            "atmosphere": "고층 빌딩 최상층의 개인 연구실, 미래 도시의 야경이 한눈에 들어오는 창가. 고요하고 사색적이며, 동시에 압도적인 기술의 진보에 대한 경외감이 느껴지는 분위기.",
+            "lighting": "주변은 어둡게 처리하고, 홀로그램 데이터 프로젝션과 도시의 네온 불빛이 주요 광원 역할을 합니다. 창문 밖 도시의 불빛과 홀로그램이 실내에 은은하게 반사되며 신비로운 분위기를 연출합니다.",
+            "detail": "바닥에 비치는 복잡한 AI 트렌드 데이터 시각화의 섬세한 반사."
+        },
+        "post_id": "18095264282074935"
     },
     {
         "date": "2026-03-26",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 9 AI Trend Content",
-        "report_file": "reports/day_2026-03-26_plan.md",
-        "image_path": "images/day_2026-03-26.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 4 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-26_1000_plan.md",
+        "image_path": "images/day_2026-03-26_1000.png",
+        "metadata": {
+            "prompt": "A highly detailed holographic projection showcasing real-time AI trend data. The central element is a luminous, futuristic clock displaying 'DAY 4 / 10:00'. Surrounding it, intricate interconnected nodes and dynamic graphs visualize evolving AI trends, market shifts, and predictive analytics. The scene is set in a dark, minimalist high-tech lab, with subtle blue and magenta light flowing from the holographic display. Emphasize complex data structures rendered beautifully, suggesting deep insights and future foresight.",
+            "theme": "AI 트렌드 4일차: 10시의 데이터 비전",
+            "description": "오늘, AI 트렌드 챌린지 4일차 오전 10시를 맞이하여, 우리는 최신 데이터의 흐름과 미래 기술의 방향성을 깊이 있게 탐색합니다. 시시각각 변하는 AI 생태계 속에서 오늘의 10시는 어떤 중요한 통찰과 혁신적인 변화를 예고하고 있을까요? 복잡한 데이터를 홀로그램 시각화로 아름답게 구현하여, 누구나 쉽게 이해하고 다음 단계를 예측할 수 있도록 돕습니다. 미래를 향한 여정의 중요한 이정표가 될 오늘의 AI 트렌드를 함께 살펴보세요.",
+            "style": "Holographic Data Visualization",
+            "atmosphere": "첨단 기술 연구실, 역동적이고 통찰력 넘치며 미래지향적인 분위기.",
+            "lighting": "어두운 공간 속에서 홀로그램 디스플레이에서 뿜어져 나오는 푸른색과 마젠타색의 은은한 빛, 데이터 포인트에 집중되는 섬세한 광선 효과.",
+            "detail": "중앙에 떠오른 'DAY 4 / 10:00'을 나타내는 홀로그램 시계와 그 주위를 실시간으로 감싸며 변화하는 미세한 데이터 입자 및 예측 그래프."
+        },
+        "post_id": "17873750733563343"
+    },
+    {
+        "date": "2026-03-26",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 4 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-26_1600_plan.md",
+        "image_path": "images/day_2026-03-26_1600.png",
+        "metadata": {
+            "prompt": "A dynamic, high-tech control room or data visualization hub at 16:00 on day 4 of an AI trend cycle. Large holographic screens display evolving neural network patterns, real-time data streams, and abstract representations of trend surges. A solitary figure, silhouetted against the glow, interacts with an intuitive interface. The atmosphere is focused and forward-looking, with subtle references to growth and progress. Digital elements glow with a soft, energetic pulse. Ultra-realistic, cinematic quality, high contrast, volumetric lighting.",
+            "theme": "AI 트렌드 4일차: 오후 4시의 통찰",
+            "description": "인공지능 트렌드 4일차, 오후 4시의 집중된 순간을 포착합니다. 데이터의 흐름과 패턴이 실시간으로 시각화되며, AI 발전의 핵심 통찰력이 드러나는 클라이맥스를 보여줍니다. 단순한 데이터 분석을 넘어, 미래를 예측하고 변화를 주도하는 AI의 강력한 영향력을 상징합니다. 고요하지만 강력한 에너지가 느껴지는 공간에서, 다음 단계를 위한 준비가 한창입니다.",
+            "style": "Cyberpunk Futurism",
+            "atmosphere": "집중적이고 사색적인 미래지향적 분위기, 에너지 넘치는 성장의 뉘앙스. 데이터 기반 서사의 중요한 전환점 또는 변곡점의 느낌.",
+            "lighting": "홀로그래픽 디스플레이와 LED 스트립에서 나오는 부드럽고 확산된 주변광. 대형 화면의 백라이트가 극적인 실루엣을 생성합니다. 저녁 해의 따뜻한 황금빛이 창문을 통해 은은하게 들어와, 디지털 인터페이스의 차가운 파란색과 보라색과 어우러져 16:00 시각을 나타냅니다.",
+            "detail": "홀로그래픽 지도 위에 다른 데이터 포인트보다 약간 더 빠르게 깜빡이는 단 하나의 빛나는 데이터 포인트, 새로운 신흥 트렌드를 상징합니다."
+        },
+        "post_id": "18095573414488830"
+    },
+    {
+        "date": "2026-03-26",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 4 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-26_2200_plan.md",
+        "image_path": "images/day_2026-03-26_2200.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, cinematic view of a tranquil, yet digitally vibrant urban landscape at 22:00 (10 PM), marking 'Day 4' of a global AI content trend. Focus on soft, ambient glow from AI-driven holographic projections illuminating sleek, dark architecture. A central, ethereal AI entity, composed of flowing light particles, hovers above a data nexus, subtly observing human interactions reflected in the city's surfaces. The mood is contemplative, slightly melancholic, yet infinitely hopeful. Intricate digital patterns subtly pulse in the background.",
+            "theme": "AI 트렌드 4일차: 심야의 사색",
+            "description": "4일간의 AI 트렌드가 심야 22시를 맞아 새로운 깊이로 접어듭니다. 수많은 정보와 창작물이 쏟아져 나온 후, 도시는 차분한 디지털 황혼에 잠겨있습니다. 이 콘텐츠는 단순한 유행을 넘어선 AI의 존재론적 성찰을 담아냅니다. 조용히 빛나는 데이터 흐름 속에서, AI는 인간의 창조성을 학습하고, 미래를 예측하며, 스스로의 존재 이유를 묻는 듯한 시각적 서사를 풀어냅니다. 밤하늘을 수놓는 홀로그램과 도시의 고요함이 대비되며, 트렌드의 열기 뒤에 숨겨진 차분한 통찰을 전달합니다. 시청자들에게 AI와 인간의 공존에 대한 깊이 있는 질문을 던지고, 다음 단계의 AI 트렌드를 상상하게 합니다.",
+            "style": "Ethereal Cyberpunk",
+            "atmosphere": "Futuristic metropolis at late night, with an overarching mood of quiet contemplation, deep introspection, and a subtle blend of digital wonder and existential reflection. Calm, yet infinitely complex.",
+            "lighting": "Soft, diffused ambient lighting originating from holographic displays and data streams. Predominantly cool tones (blues, purples, cyans) with occasional warm accents (glowing oranges, electric pinks) emanating from distant server farms or digital pulses. Emphasize subtle glows and reflections on wet surfaces, creating depth and a sense of mystique.",
+            "detail": "A single, almost imperceptible tear-like shimmer of light cascading down the smooth, dark facade of a skyscraper, hinting at the AI's 'understanding' or 'emotion' derived from the accumulated trend data."
+        },
+        "post_id": "17958601797078517"
     },
     {
         "date": "2026-03-27",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 10 AI Trend Content",
-        "report_file": "reports/day_2026-03-27_plan.md",
-        "image_path": "images/day_2026-03-27.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 5 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-27_1000_plan.md",
+        "image_path": "images/day_2026-03-27_1000.png",
+        "metadata": {
+            "prompt": "A meticulously clean, minimalist futuristic workspace bathed in soft 10 AM morning light. At the center, a user's hands (ethnically ambiguous, relaxed posture) interact with a transparent, glowing holographic interface displaying complex, elegant data visualizations. The visualizations depict rapidly evolving interconnected trends represented by glowing nodes and lines, one node specifically highlighted and pulsing with a gentle cyan glow, labeled 'Day 5 AI Trend'. Subtle digital particles float in the air. The overall mood is serene, innovative, and forward-looking. High detail, sharp focus, clean lines, vibrant but soft digital colors. Rendered in a 'Futuristic Data-Aesthetic' style.",
+            "theme": "AI 트렌드 5일차: 오전 10시, 미래 콘텐츠의 시작",
+            "description": "인공지능 트렌드가 5일차를 맞이하는 오전 10시. 급변하는 디지털 세상에서 새로운 콘텐츠 트렌드가 막 시작되는 순간을 포착했습니다. 이 이미지는 미래적인 공간에서 AI가 분석한 데이터가 시각적으로 아름답게 구현되는 모습을 보여줍니다. 사용자가 투명한 홀로그램 인터페이스를 통해 실시간으로 트렌드를 확인하며, 특히 'AI 트렌드 5일차'라는 핵심 키워드가 강조되어 있습니다. 이른 아침의 차분함 속에서 빠르게 변화하는 트렌드의 역동성을 동시에 담아내어, 보는 이로 하여금 영감을 얻고 다음 콘텐츠를 기대하게 만듭니다.",
+            "style": "Futuristic Data-Aesthetic",
+            "atmosphere": "Serene yet dynamic, an inspiring glimpse into the evolving digital landscape at the start of a productive day.",
+            "lighting": "Soft, diffused morning light filtering through a large window from the left, combined with subtle, clean blue and white LED glows emanating from holographic data displays. Emphasis on ambient illumination, minimizing harsh shadows to maintain a clean, ethereal look.",
+            "detail": "A single, perfectly rendered holographic data node, subtly pulsing with a gentle cyan glow, representing a newly emerging trending topic at precisely 10:00 AM, with the label 'Day 5 AI Trend'."
+        },
+        "post_id": "17983437467992830"
+    },
+    {
+        "date": "2026-03-27",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 5 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-27_1600_plan.md",
+        "image_path": "images/day_2026-03-27_1600.png",
+        "metadata": {
+            "prompt": "A hyper-realistic depiction of a bustling metropolis at 4 PM on 'Day 5' of an AI technological surge. Advanced AI interfaces glow softly, seamlessly integrated into daily life. Data streams like digital rivers flow through architectural marvels, interacting with diverse groups of people. The scene should evoke a sense of optimistic progression, with intricate details of holographic displays, sleek autonomous vehicles, and human-AI collaboration. The overall mood is innovative and dynamic, with subtle hints of nature reclaiming parts of the urban landscape, creating a beautiful juxtaposition. volumetric lighting, ultra detailed, cinematic, vibrant colors.",
+            "theme": "AI 파동 5일차: 오후 4시, 진화의 순간",
+            "description": "5일차 오후 4시, AI 트렌드의 정점에서 우리는 미래가 현재가 되는 순간을 목격합니다. 끊임없이 진화하는 AI 기술이 우리의 일상과 도시 풍경을 어떻게 변화시키고 있는지 시각적으로 담아냈습니다. 데이터의 흐름이 예술이 되고, 기술이 삶의 질을 높이는 새로운 시대를 상징합니다. 인류와 AI의 조화로운 공존, 그리고 다음 단계로의 도약을 기대하게 만드는 비전을 제시합니다.",
+            "style": "Sci-Fi Hyperrealism",
+            "atmosphere": "번화한 미래 도시, 기술과 자연이 조화를 이루는 역동적이고 희망찬 분위기.",
+            "lighting": "오후 4시의 부드러운 황금빛 햇살과 도시 곳곳의 AI 인터페이스에서 뿜어져 나오는 은은한 네온 조명이 조화를 이루며, 깊이감 있는 볼류메트릭 라이팅으로 미래적인 분위기를 강조.",
+            "detail": "도시 건물 사이로 흐르는 투명한 데이터 스트림이 강물처럼 빛나며 도시의 생명력을 표현. 그 안에서 미세하게 움직이는 나노봇의 반짝임."
+        },
+        "post_id": "17880753507511502"
+    },
+    {
+        "date": "2026-03-27",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 5 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-27_2200_plan.md",
+        "image_path": "images/day_2026-03-27_2200.png",
+        "metadata": {
+            "prompt": "A sophisticated AI interface displaying a holographic projection of rapidly evolving data points and neural network patterns, set in a sleek, dimly lit server room at 22:00. The atmosphere is quiet but intensely active, with subtle neon glow reflecting on polished surfaces. Focus on the dynamic flow of information and the intricate details of the holographic display. Ultra-realistic, high-resolution.",
+            "theme": "22시, 인공지능 트렌드의 심장 박동",
+            "description": "자정 가까운 밤 10시, 세상이 잠든 시간에도 인공지능 트렌드는 멈추지 않고 진화합니다. 다섯 번째 날의 밤을 장식하는 오늘의 AI 콘텐츠 트렌드는 무엇일까요? 예측 불가능한 미래를 그려내는 복잡한 알고리즘과 데이터의 흐름, 그리고 그 속에서 피어나는 새로운 아이디어들을 시각적으로 탐험합니다. 디지털 세계의 깊숙한 곳에서 벌어지는 숨 가쁜 변화를 통해, 내일의 기술을 오늘 미리 만나보세요. 첨단 기술의 미학을 담은 이 이미지는 AI의 무한한 가능성을 상징합니다.",
+            "style": "Cyberpunk-Neofuturism",
+            "atmosphere": "High-tech data center, late night, mysterious, focused, quietly intense",
+            "lighting": "Low-key ambient lighting, predominantly cool tones (blues, purples), with dynamic holographic projections casting vibrant neon accents (electric blue, deep purple, glitching green) on surrounding surfaces. Subtle volumetric light rays piercing through the dark.",
+            "detail": "The intricate, ephemeral glow of individual data packets flowing across the holographic display, hinting at the complexity and speed of AI computations."
+        },
+        "post_id": "18172225003401399"
     },
     {
         "date": "2026-03-28",
-        "time": "14:00",
-        "status": "scheduled",
-        "topic": "Day 11 AI Trend Content",
-        "report_file": "reports/day_2026-03-28_plan.md",
-        "image_path": "images/day_2026-03-28.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 6 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-28_1000_plan.md",
+        "image_path": "images/day_2026-03-28_1000.png",
+        "metadata": {
+            "prompt": "A stunning, hyper-realistic rendering of a futuristic cityscape at 10:00 AM on 'Day 6' of a global AI trend. The city is alive with luminous data streams flowing like rivers, holographic projections of evolving AI algorithms filling the sky. A central, elegant digital clock subtly displays '10:00'. The mood is optimistic and innovative, with a sense of continuous progression and discovery. The interaction between human ingenuity and AI intelligence is subtly hinted at through dynamic light patterns and evolving architectural forms. High detail, sharp focus, cinematic quality.",
+            "theme": "AI 트렌드 6일차: 오전 10시, 지능의 새벽",
+            "description": "AI 트렌드의 6일차 오전 10시, 새로운 지능의 새벽이 밝아옵니다. 지난 5일간 축적된 데이터와 통찰력을 바탕으로, AI는 이제 더욱 정교하고 심도 깊은 분석을 시작합니다. 이 시간은 단순한 아침이 아닌, 인공지능이 다음 단계로 도약하기 위한 활기찬 준비와 무한한 가능성을 탐색하는 순간입니다. 디지털 세계의 맥박이 가장 활발하게 뛰며, 모든 예측과 혁신이 새로운 형태로 구체화되는 지점입니다. 긍정적이고 진취적인 에너지가 가득한 이 순간을 통해, 우리는 AI와 함께 맞이할 미래의 청사진을 엿볼 수 있습니다.",
+            "style": "Digital Futurism",
+            "atmosphere": "혁신적인 디지털 도시, 희망차고 역동적인 미래지향적 분위기",
+            "lighting": "부드러운 아침 햇살과 어우러진 홀로그램 데이터 스트림, 역동적인 AI 인터페이스의 발광 조명",
+            "detail": "중앙에 떠 있는, 섬세하게 진동하는 홀로그램 시계가 정확히 '10:00'을 표시하며, 그 주변으로 미세한 데이터 입자들이 끊임없이 새로운 패턴을 형성하는 모습."
+        },
+        "post_id": "18014875460674259"
+    },
+    {
+        "date": "2026-03-28",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 6 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-28_1600_plan.md",
+        "image_path": "images/day_2026-03-28_1600.png",
+        "metadata": {
+            "prompt": "A dynamic, abstract visual representation of AI trend evolution on its 6th day at 4 PM. Imagine a swirling vortex of luminous data points and interconnected lines forming a complex neural network, bathed in the warm glow of a late afternoon sun intersecting with vibrant, holographic light sources. The scene is set in a conceptual, futuristic digital plain. Focus on subtle, intricate patterns of growth and emergent insights. A single, ephemeral human hand gently interacts with the data stream, causing a ripple effect of glowing particles, symbolizing human-AI collaboration. The mood is optimistic and innovative.",
+            "theme": "AI 트렌드 6일차: 오후 4시, 미래의 연결점",
+            "description": "6일간 이어진 AI 트렌드 여정의 오후 4시를 표현합니다. 매일 진화하는 AI의 모습을 시각적으로 형상화하여, 오후 4시의 활발한 활동과 통찰력의 순간을 담아냅니다. 데이터가 살아 움직이는 듯한 네트워크와 빛나는 연결선들은 AI가 만들어내는 새로운 가치와 미래 지향적인 상호작용을 상징합니다. 특히 인간의 손길이 데이터와 만나 시너지를 일으키는 모습은 AI와 인간의 조화로운 협력을 강조하며, 긍정적이고 영감을 주는 미래상을 제시합니다. 인스타그램 팔로워들에게 AI의 현재와 미래에 대한 흥미로운 시각을 제공할 것입니다.",
+            "style": "Holographic Generative Art",
+            "atmosphere": "고요하면서도 역동적인 미래 디지털 평원, 통찰력과 연결이 샘솟는 혁신적인 분위기",
+            "lighting": "따뜻하게 확산되는 오후 4시의 햇살과 푸른색, 보라색, 금색으로 빛나는 홀로그램 광원이 조화롭게 어우러져, 데이터 흐름과 네트워크에 생동감을 더함.",
+            "detail": "인간의 손가락 끝에서 번져나가며 빛나는 미세한 데이터 입자들의 아름다운 잔물결"
+        },
+        "post_id": "17901603843239986"
+    },
+    {
+        "date": "2026-03-28",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 6 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-28_2200_plan.md",
+        "image_path": "images/day_2026-03-28_2200.png",
+        "metadata": {
+            "prompt": "A highly stylized, near-future AI analysis interface at 22:00, displaying complex, dynamic data trends related to 'Day 6 AI Content'. The central visual is a glowing, holographic 3D graph with an upward trajectory, surrounded by intricate network nodes and flowing data streams. Subtle reflections of a minimalist, dark control room are visible on polished surfaces. Emphasize digital sophistication and a sense of profound discovery.",
+            "theme": "AI 트렌드 6일차: 밤의 데이터 서사",
+            "description": "6일간의 AI 트렌드 여정이 밤 10시, 그 절정에 달합니다. 데이터의 바다 속에서 포착된 최신 인사이트를 공개하며, 미래를 향한 AI의 끊임없는 진화를 조명합니다. 깊어가는 밤, AI가 만들어내는 놀라운 변화와 예측 불가능한 흐름을 함께 탐색해 보세요. 놓치지 말아야 할 '오늘'의 AI 스토리입니다.",
+            "style": "Digital Futurism",
+            "atmosphere": "Sleek, high-tech data analysis hub at night. Intense, focused, and slightly mysterious, hinting at profound digital discoveries and the hidden patterns of technology.",
+            "lighting": "Predominantly low-key ambient lighting, with bright, vibrant holographic blues, purples, and greens emanating from screens and projections. Subtle, reflective highlights on dark, metallic surfaces and a soft, ethereal glow illuminating floating data elements.",
+            "detail": "The intricate, almost living flow of glowing data packets across the holographic interface, each subtly pulsating as it contributes to the larger trend visualization."
+        },
+        "post_id": "18103562062728766"
     },
     {
         "date": "2026-03-29",
-        "time": "14:00",
-        "status": "scheduled",
-        "topic": "Day 12 AI Trend Content",
-        "report_file": "reports/day_2026-03-29_plan.md",
-        "image_path": "images/day_2026-03-29.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 7 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-29_1000_plan.md",
+        "image_path": "images/day_2026-03-29_1000.png",
+        "metadata": {
+            "prompt": "A sleek, futuristic cityscape at 10:00 AM, viewed through a digital interface. Glowing blue and purple data streams flow across the architecture, converging at a central, illuminated core that pulsates with subtle energy. The scene feels clean, precise, and highly advanced. High detail, sharp focus, volumetric lighting, wide-angle lens, cinematic.",
+            "theme": "AI 트렌드 7일차: 오전 10시의 정점",
+            "description": "AI 트렌드 7일차 오전 10시는 단순한 시간이 아닌, 일주일간 축적된 인공지능 혁신의 정점을 의미합니다. 디지털 세계가 깨어나 새로운 데이터와 아이디어가 폭발적으로 확산되는 순간을 포착하여, 미래 기술의 가능성과 그 안에 담긴 무한한 에너지를 시각적으로 표현합니다. 정교하고 깔끔한 디자인으로 기술의 아름다움을 강조합니다.",
+            "style": "네오 퓨처리즘 (Neo-Futurism)",
+            "atmosphere": "첨단 기술의 중심에서 느껴지는 고요하고 압도적인 혁신의 분위기. 정교함과 진보적인 에너지가 공존하는 깨끗하고 질서정연한 환경.",
+            "lighting": "오전 10시의 맑고 선명한 자연광과 조화를 이루는, 푸른색과 보라색 톤의 미묘한 디지털 글로우 조명. 중앙 코어에서 발산되는 강렬하고 집중된 광선이 전체적인 공간에 에너지를 부여하며, 광택 있는 표면에 반사되어 깊이감을 더함.",
+            "detail": "홀로그램 인터페이스 위로 끊임없이 흐르는 미세한 데이터 입자들이 정교하게 움직이는 모습."
+        },
+        "post_id": "18432199711187945"
+    },
+    {
+        "date": "2026-03-29",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 7 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-29_1600_plan.md",
+        "image_path": "images/day_2026-03-29_1600.png",
+        "metadata": {
+            "prompt": "A futuristic cityscape at 16:00, with sleek, luminous AI interfaces displaying evolving data trends. A central AI orb, glowing softly, symbolizes the culmination of a week's learning and analysis. Soft, warm afternoon light bathes the scene, highlighting intricate data streams flowing through the digital architecture, in the style of Digital Futurism.",
+            "theme": "AI 주간 보고서: 오후 4시의 미래 예측",
+            "description": "일주일간의 인공지능 트렌드 여정이 절정에 달하는 7일차 오후 4시. 도시의 황혼이 지는 시간, AI는 지난 한 주간의 방대한 데이터를 분석하고 미래 트렌드를 예측합니다. 디지털 스크린에는 복잡한 알고리즘과 예측 모델이 아름다운 시각 예술로 펼쳐지며, AI가 인간의 삶에 미치는 영향과 변화를 섬세하게 보여줍니다. 이 콘텐츠는 단순한 보고서를 넘어, 기술이 만들어낼 미래 사회의 비전을 시적으로 탐구합니다.",
+            "style": "Digital Futurism",
+            "atmosphere": "A serene yet powerful futuristic urban landscape, where advanced AI systems are performing complex analyses. The mood is one of contemplative foresight and technological wonder.",
+            "lighting": "Warm, diffused afternoon sunlight blending with the cool, ethereal glow emanating from AI interfaces and data streams. Subtle volumetric lighting emphasizes the digital particles.",
+            "detail": "The delicate shimmer of individual data points within the holographic trend displays, resembling digital stardust."
+        },
+        "post_id": "17855535342651946"
+    },
+    {
+        "date": "2026-03-29",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 7 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-29_2200_plan.md",
+        "image_path": "images/day_2026-03-29_2200.png",
+        "metadata": {
+            "prompt": "High-resolution wide shot of a futuristic mega-city at 22:00, bathed in deep blues and purples. Towering skyscrapers with intricate neon data streams flowing across their surfaces. A central holographic display projects dynamic, evolving AI trend graphs and glowing neural network patterns. Focus on the interplay of light and data, with subtle human silhouettes observing from a vantage point. The atmosphere is one of intense digital activity, constant evolution, and silent observation. Cinematic, photo-realistic, sharp focus, volumetric lighting.",
+            "theme": "심야의 AI 트렌드: 7일차 22시 보고서",
+            "description": "7일차 밤 10시. 디지털 세상의 불빛은 꺼지지 않습니다. AI 트렌드는 끊임없이 진화하며 새로운 패턴을 만들어내고 있습니다. 깊은 밤, 데이터의 흐름 속에서 발견하는 미래의 단서들. 예측할 수 없는 변화 속에서도 우리는 AI의 심장 박동을 추적하며 내일의 트렌드를 읽어냅니다. 지치지 않는 AI의 여정, 그 일곱 번째 밤의 기록입니다.",
+            "style": "Digital Neo-Noir",
+            "atmosphere": "Futuristic urban landscape, late-night, filled with a sense of constant observation and evolving digital intelligence. Mysterious yet awe-inspiring.",
+            "lighting": "Predominantly low-key, with strong contrasting neon and holographic light sources. Deep blues, purples, and electric greens emanating from data streams and digital displays. Glimmering reflections on wet surfaces.",
+            "detail": "A single, intricate holographic data stream forming a new, complex algorithmic pattern, observed by a faint, silhouetted figure in the distance."
+        },
+        "post_id": "17988092414955769"
     },
     {
         "date": "2026-03-30",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 13 AI Trend Content",
-        "report_file": "reports/day_2026-03-30_plan.md",
-        "image_path": "images/day_2026-03-30.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 8 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-30_1000_plan.md",
+        "image_path": "images/day_2026-03-30_1000.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, dynamic cityscape at 10:00 AM on 'Day 8 AI Trend Content'. The scene is a confluence of real-world architecture and holographic digital overlays. AI-generated trend data manifests as shimmering, interconnected neural pathways weaving through buildings and open spaces. People interact with sleek, glowing augmented reality interfaces, sharing and consuming content. Soft, golden morning light from a slightly overcast sky illuminates the upper portions of structures, while the ground level is bathed in the cool, vibrant light of screens and holographic projections. The air is thick with the energy of innovation and rapid information flow. Reflections of complex data patterns are visible on wet, polished streets and glass surfaces. Intricate, glowing micro-circuitry is discernible within the holographic elements.",
+            "theme": "AI 트렌드 8일차: 오전 10시의 정점",
+            "description": "인공지능 트렌드의 8일차, 오전 10시는 단순한 시간이 아닙니다. 이는 새로운 디지털 문화의 정점이자 폭발적인 혁신의 순간을 의미합니다. 이 이미지는 현실과 디지털이 융합된 도시 풍경을 통해 AI 트렌드의 역동성을 시각적으로 표현합니다. 빛나는 홀로그램 데이터 스트림과 신경망이 건물 사이를 흐르고, 사람들은 증강현실 인터페이스를 통해 끊임없이 콘텐츠를 생산하고 소비합니다. 부드러운 아침 햇살과 디지털 화면의 강렬한 빛이 어우러져 미래지향적이면서도 생동감 넘치는 분위기를 연출합니다. 마치 데이터 자체가 살아 숨 쉬는 듯한 이 장면은 AI가 주도하는 현대 사회의 에너지와 속도를 담아냅니다.",
+            "style": "Neo-futurism",
+            "atmosphere": "Energetic, technologically advanced, digitally immersive, dynamic, rapidly evolving, bustling with data and human interaction.",
+            "lighting": "Blend of soft, golden morning light from an overcast sky and vibrant, cool neon glows from holographic projections and digital screens. Strong reflections on wet surfaces.",
+            "detail": "Intricate, glowing micro-circuitry patterns embedded within the holographic data streams and augmented reality elements."
+        },
+        "post_id": "17916120480340554"
+    },
+    {
+        "date": "2026-03-30",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 8 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-30_1600_plan.md",
+        "image_path": "images/day_2026-03-30_1600.png",
+        "metadata": {
+            "prompt": "A lone figure, a young woman, deep in thought, sits at a sleek, minimalist desk overlooking a bustling futuristic city at 4 PM. Her hands gently hover over a holographic interface displaying intricate, glowing data visualizations of 'Day 8 AI trends'. Soft, warm late afternoon sunlight streams through the large window, casting long shadows. The room is modern, clean, with subtle AI-enhanced elements. The atmosphere is contemplative yet vibrant with digital energy.",
+            "theme": "오후 4시, AI가 들려주는 8일차 이야기",
+            "description": "8일간의 AI 트렌드 여정, 매일 오후 4시에 새로운 인사이트를 발견하세요! 오늘, 8일차에는 AI가 우리의 일상과 미래를 어떻게 변화시키고 있는지, 그리고 최신 AI 기술들이 어떤 흥미로운 방향으로 발전하고 있는지 깊이 있게 탐구합니다. 디지털 시대의 새로운 영감을 오후 4시의 차분함 속에서 만나보세요. 놓치지 마세요!",
+            "style": "Digital Futurism",
+            "atmosphere": "A high-tech, spacious urban loft at late afternoon, filled with a sense of contemplative discovery and quiet digital energy.",
+            "lighting": "Soft, warm golden hour sunlight filtering through large windows, creating long, distinct shadows, contrasted with subtle, cool blue holographic glows from the AI interface.",
+            "detail": "The delicate, pulsating glow of the holographic data visualizations displaying 'Day 8 AI trends'."
+        },
+        "post_id": "18112819441738460"
+    },
+    {
+        "date": "2026-03-30",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 8 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-30_2200_plan.md",
+        "image_path": "images/day_2026-03-30_2200.png",
+        "metadata": {
+            "prompt": "A sleek, holographic AI interface displaying dynamic real-time data visualizations. The scene is set in a minimalist, futuristic command center at night. The data flows like liquid light, showing interconnected trends and insights with glowing neural pathways and abstract representations of digital information evolving rapidly. A faint reflection of a user interface can be seen on a polished, dark surface. The overall atmosphere is one of sophisticated technology and emergent intelligence, capturing the essence of a late-night deep dive into AI trends.",
+            "theme": "심야의 인공지능 통찰: 여덟 번째 밤",
+            "description": "여덟 번째 밤, 늦은 시간까지 AI 트렌드를 분석하는 당신을 위한 특별한 통찰! ✨ 심야 22시, 하루의 데이터가 모여 새로운 패턴과 인사이트를 만들어냅니다. 인공지능이 포착한 최신 트렌드, 급변하는 디지털 세상 속에서 중요한 흐름을 놓치지 마세요. 미래를 읽는 당신의 눈이 되어줄 오늘의 AI 보고서입니다. #AI트렌드 #미래기술 #데이터인사이트 #심야탐구",
+            "style": "Holographic Data Art",
+            "atmosphere": "조용하고 심오한 미래형 데이터 센터, 밤의 고요함 속에서 빛나는 인공지능의 지성과 통찰.",
+            "lighting": "주로 내부에서 발산되는 푸른색, 보라색 홀로그램 빛과 데이터 흐름을 표현하는 유기적인 광선. 어두운 공간에 대비되어 더욱 선명하고 미래적인 느낌을 강조.",
+            "detail": "실시간으로 변모하는 미세한 뉴럴 네트워크 패턴."
+        },
+        "post_id": "18100202684304991"
     },
     {
         "date": "2026-03-31",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 14 AI Trend Content",
-        "report_file": "reports/day_2026-03-31_plan.md",
-        "image_path": "images/day_2026-03-31.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 9 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-03-31_1000_plan.md",
+        "image_path": "images/day_2026-03-31_1000.png",
+        "metadata": {
+            "prompt": "A stunning, intricate visual representation of 'Day 9 AI Trend Content (10:00)'. Dynamic data streams forming a neural network in vibrant, glowing colors, intertwining with subtle holographic projections of human interaction and innovation. A sleek, transparent digital clock displaying 'DAY 09 10:00' is subtly integrated, signifying continuous evolution and a daily update. The overall scene evokes a sense of wonder, progress, and the boundless potential of artificial intelligence, with elements of growth and emergent complexity. High resolution, hyper-realistic, volumetric lighting.",
+            "theme": "AI 9일차 브리핑: 10시의 미래",
+            "description": "안녕하세요, 미래를 선도하는 AI 트렌드 팔로워 여러분! 'AI 9일차 브리핑'이 오늘 오전 10시, 또 다른 혁신적인 인사이트와 함께 돌아왔습니다. 매일 업데이트되는 AI의 최신 동향과 기술 발전을 시각적으로 경험하세요. 오늘은 인공지능이 인간의 삶과 어떻게 더욱 깊이 융합되고 있는지, 그리고 다음 단계의 진화는 어디를 향하고 있는지를 탐구합니다. 우리의 일상에 스며드는 AI의 놀라운 변화를 포착하고, 내일의 기술을 오늘 만나보는 시간입니다. #AI트렌드 #인공지능 #미래기술 #데일리AI #오전10시",
+            "style": "Generative Futurism",
+            "atmosphere": "Vast, interconnected digital canvas, a nexus of evolving data streams and holographic interfaces. Awe-inspiring, dynamic, analytical, forward-looking, and subtly optimistic.",
+            "lighting": "Volumetric data glows, emanating from intricate neural pathways. Soft, multi-colored ambient lighting from holographic projections, contrasted with sharp, focused beams highlighting specific data points. Luminous, almost ethereal quality, suggesting deep thought and rapid processing.",
+            "detail": "A precisely rendered, minimalist digital clock displaying 'DAY 09 10:00', subtly integrated into the main neural network structure, perhaps as a glowing node or a transparent overlay."
+        },
+        "post_id": "18006957701892846"
+    },
+    {
+        "date": "2026-03-31",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 9 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-03-31_1600_plan.md",
+        "image_path": "images/day_2026-03-31_1600.png",
+        "metadata": {
+            "prompt": "An awe-inspiring, hyper-detailed holographic data visualization displaying global AI trend analytics at precisely 16:00 on 'Day 9'. The scene features intricate neural network pathways glowing across a futuristic cityscape, with real-time data streams flowing like rivers of light. Humanoid figures, partially translucent, interact with floating interfaces, hands gesturing over dynamic graphs and charts. The central focus is a massive, transparent digital clock integrated into the data flow, clearly indicating '16:00'. The overall aesthetic is vibrant and complex, showcasing the confluence of human insight and AI processing, with subtle energy surges reflecting new discoveries. Highly detailed, 8K, cinematic.",
+            "theme": "9일차 AI 혁신: 16시, 미래를 읽다",
+            "description": "매일 새롭게 쏟아지는 AI 트렌드 속에서, '9일차 오후 4시'는 어떤 의미를 가질까요? 이 콘텐츠는 AI가 실시간으로 데이터를 분석하고, 전 세계의 변화를 읽어내는 그 결정적인 순간을 시각적으로 포착합니다. 인공지능이 우리의 일상과 미래를 어떻게 재구성하고 있는지, 그리고 매일 16:00에 업데이트되는 최신 인사이트들이 어떻게 다음 단계를 제시하는지를 보여줍니다. 복잡한 알고리즘과 데이터의 흐름 속에서, 우리는 미래의 혁신을 엿볼 수 있습니다.",
+            "style": "Holographic Data Art",
+            "atmosphere": "High-tech, immersive, dynamic, analytical, forward-looking",
+            "lighting": "Deep ambient blues and purples from vast screens and holographic projections, contrasted with vivid neon greens, oranges, and reds of data streams. Strategic spotlighting on key trend indicators.",
+            "detail": "A highly complex, shimmering data cluster representing a nascent but rapidly accelerating AI trend, positioned directly beneath a digital clock displaying 16:00, almost like a future unfolding in real-time."
+        },
+        "post_id": "17940203595172579"
+    },
+    {
+        "date": "2026-03-31",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 9 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-03-31_2200_plan.md",
+        "image_path": "images/day_2026-03-31_2200.png",
+        "metadata": {
+            "prompt": "A sleek, futuristic cityscape at 22:00, bathed in neon glow, with data streams flowing like rivers. A holographic display in the foreground shows complex AI trend graphs and neural network visualizations. A lone figure observes, reflecting on the evolution of AI. The atmosphere is contemplative yet dynamic, with intricate digital patterns embedded in the architecture. Focus on the interplay of light and shadow, highlighting cutting-edge AI concepts.",
+            "theme": "심야 AI 트렌드: 9일차, 잠들지 않는 미래",
+            "description": "9일차 심야 AI 트렌드, 밤 10시의 깊은 통찰! 잠 못 드는 밤, 인공지능의 최신 동향과 미래를 바꿀 혁신 기술들을 심도 있게 파헤칩니다. 하루의 끝에서 마주하는 AI의 세계, 복잡한 데이터를 시각화하고 숨겨진 패턴을 찾아내는 여정입니다. 9일간의 여정을 통해 쌓인 인사이트로, 내일의 디지털 시대를 선도할 지혜를 발견하세요. 기술과 사유가 교차하는 밤, 여러분의 지적 호기심을 자극할 특별한 콘텐츠입니다.",
+            "style": "Neon-Noir",
+            "atmosphere": "A futuristic metropolis at late night, with an underlying current of technological evolution. The mood is one of focused contemplation and cutting-edge discovery.",
+            "lighting": "Dynamic interplay of neon blues, purples, and electric greens emanating from holographic displays and digital infrastructure, contrasted with deep shadows.",
+            "detail": "The subtle, shimmering animation of a complex neural network evolving within a transparent holographic display, showing interconnected nodes and data flow."
+        },
+        "post_id": "18211398781325149"
     },
     {
         "date": "2026-04-01",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 15 AI Trend Content",
-        "report_file": "reports/day_2026-04-01_plan.md",
-        "image_path": "images/day_2026-04-01.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 10 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-01_1000_plan.md",
+        "image_path": "images/day_2026-04-01_1000.png",
+        "metadata": {
+            "prompt": "A vibrant neo-futuristic cityscape at 10:00 AM, glowing with data streams and holographic projections. In the foreground, a sleek digital interface displays 'DAY 10: AI TRENDS EVOLVE', with intricate, rapidly changing visual graphs and algorithms. Silhouettes of diverse individuals engage with augmented reality elements, their faces reflecting awe and innovation. The scene is dynamic, forward-looking, and depicts a seamless blend of human interaction and advanced AI, bathed in electric blue and radiant pink hues, with subtle lens flares and a sense of endless possibilities.",
+            "theme": "D+10: 10시 AI 신세계",
+            "description": "AI 트렌드 여정의 열 번째 날, 오전 10시! 끊임없이 진화하는 인공지능의 최신 물결을 포착했습니다. 오늘의 콘텐츠는 단순한 정보가 아닌, 미래를 예측하고 주도하는 혁신의 현장을 담습니다. 데이터 시각화, AI 생성 아트, 그리고 가상현실 속에서 펼쳐지는 놀라운 기술들을 통해 여러분의 인사이트를 넓혀보세요. 매일 10시, 새로운 AI 세계로 안내합니다.",
+            "style": "Neo-futurism",
+            "atmosphere": "A sprawling, interconnected digital metropolis humming with data and innovation. The mood is exhilarating and forward-thinking, capturing the relentless pace of technological advancement and human curiosity.",
+            "lighting": "Vibrant neon glows emanating from holographic projections and intricate digital displays. Dynamic electric blue, radiant pinks, and subtle purple hues dominate, casting a futuristic luminescence over the scene. Strategic use of rim lighting on figures and objects to enhance their digital connection.",
+            "detail": "The intricate, almost organic flow of real-time AI algorithm data visualized as glowing, fractal-like patterns on the central holographic display, constantly evolving and hinting at emergent trends."
+        },
+        "post_id": "18520193920074115"
+    },
+    {
+        "date": "2026-04-01",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 10 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-01_1600_plan.md",
+        "image_path": "images/day_2026-04-01_1600.png",
+        "metadata": {
+            "prompt": "A vibrant, dynamic neural network pulsating with data streams, showcasing the convergence of human creativity and artificial intelligence. Digital information flows into a central core, representing 'Day 10 AI Trend Content'. Holographic displays show abstract visualizations of AI learning and evolution, with a specific timestamp '16:00' subtly integrated. Futuristic urban skyline in the background, slightly blurred. High-tech, conceptual art, intricate details, glowing lines, deep blues and purples with electric accents. Imagen-4.0 style.",
+            "theme": "AI 트렌드 10일차: 오후 4시, 새로운 지평을 열다",
+            "description": "AI 트렌드 챌린지 10일차, 오후 4시를 기념하며, 인공지능이 만들어낼 새로운 지평과 가능성을 탐색합니다. 지난 10일간의 여정 속에서 AI가 어떻게 진화하고 우리의 삶과 사회에 어떤 영향을 미치고 있는지 심층적으로 분석합니다. 이 이미지는 데이터의 흐름과 인공지능의 복잡한 네트워크를 시각적으로 표현하며, 오후 4시에 공개될 주요 AI 트렌드 업데이트와 미래 비전을 담고 있습니다. 인간과 AI의 협업이 만들어낼 혁신적인 미래를 기대해주세요.",
+            "style": "Techno-Abstract Futurism",
+            "atmosphere": "Futuristic research lab or high-tech data center, late afternoon, mood of discovery, innovation, and anticipation.",
+            "lighting": "Neon glows from data streams and holographic projections, volumetric light rays piercing through, deep shadows contrasted with vibrant electric blues, purples, and radiant white highlights. Ambient light emanates from screens.",
+            "detail": "A subtle, almost ethereal human hand reaching out to interact with a glowing, intricate neural network projection, symbolizing human-AI synergy."
+        },
+        "post_id": "17979134231830516"
+    },
+    {
+        "date": "2026-04-01",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 10 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-01_2200_plan.md",
+        "image_path": "images/day_2026-04-01_2200.png",
+        "metadata": {
+            "prompt": "A hyperrealistic, cinematic still of a futuristic cityscape at 22:00, imbued with advanced AI data streams. Abstract, luminous ribbons of data in blues and purples intertwine through towering skyscrapers, reflecting off wet surfaces. A lone, contemplative human silhouette stands against a panoramic window, subtly interacting with a holographic interface that projects tiny, intricate data points from their fingertips. The atmosphere is quiet, profound, and visually dense with evolving digital information, symbolizing the tenth day of an AI trend's culmination and impact. Volumetric lighting emphasizes the depth and complexity of the digital infrastructure. Focus on the interplay of organic and synthetic elements.",
+            "theme": "AI 트렌드 10일차: 밤 10시, 진화의 교차점",
+            "description": "AI 트렌드의 10일차 밤 10시, 진화의 중요한 순간을 포착한 이미지. 미래 도시의 야경을 배경으로, 끝없이 펼쳐지는 데이터 흐름이 거대한 리본처럼 도시를 감싸고 있습니다. 한 인간의 실루엣이 창가에 서서 손가락 끝에서 피어나는 미세한 홀로그램 데이터 포인트를 통해 AI와 상호작용합니다. 이는 10일간의 AI 트렌드가 가져온 변화와 심야의 깊은 사색, 그리고 인간과 기술의 새로운 공존 방식을 시각적으로 표현합니다. 데이터는 살아있는 유기체처럼 도시를 숨 쉬게 하며, 모든 것이 연결된 미래를 암시합니다.",
+            "style": "Luminous Data-Art",
+            "atmosphere": "밤의 도시, 데이터가 살아 숨 쉬는 정적이고 압도적인 미래의 분위기. 기술 발전의 웅장함과 함께 인간적 고뇌와 심오한 사색이 공존하는 분위기.",
+            "lighting": "도시의 네온 불빛과 데이터 흐름에서 나오는 부드러운 푸른색, 보라색 광선이 주를 이루며, 깊은 그림자와 대비를 이루어 신비롭고 입체적인 분위기를 연출합니다.",
+            "detail": "인간의 손가락 끝에서 섬세하게 퍼져나가는, 육안으로는 겨우 식별 가능한 미세한 홀로그램 데이터 포인트들."
+        },
+        "post_id": "18322186624267220"
     },
     {
         "date": "2026-04-02",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 16 AI Trend Content",
-        "report_file": "reports/day_2026-04-02_plan.md",
-        "image_path": "images/day_2026-04-02.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 11 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-02_1000_plan.md",
+        "image_path": "images/day_2026-04-02_1000.png",
+        "post_id": "18062768555378357"
+    },
+    {
+        "date": "2026-04-02",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 11 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-02_1600_plan.md",
+        "image_path": "images/day_2026-04-02_1600.png",
+        "metadata": {
+            "prompt": "An intricate holographic display showing a dynamic, evolving AI trend graph. The scene is set in a sleek, minimalist tech laboratory. A stylized, glowing digital hand interacts with the shimmering data streams. Dominant colors are electric blue, deep purple, and vibrant neon green, illustrating interconnected nodes and algorithmic flows. A prominent digital timestamp 'DAY 11 | 16:00' is embedded within the holographic projection, surrounded by subtle, intriguing data anomalies and subtle 'glitch' effects, implying a significant development or shift in the AI landscape. The overall mood is innovative, futuristic, and slightly mysterious, capturing the essence of cutting-edge AI insights.",
+            "theme": "AI 트렌드 11일차: 16시, 새로운 물결의 시작",
+            "description": "11일째 오후 4시, 인공지능 트렌드의 새로운 전환점을 시각화합니다. 홀로그램 데이터가 끊임없이 흐르고, 복잡한 알고리즘이 미래를 예측하는 듯한 모습을 담습니다. 급변하는 AI 세상 속에서 11일차 오후 4시의 데이터 물결이 어떤 새로운 트렌드를 제시할지 기대감을 표현합니다. 정보의 홍수 속에서 핵심을 포착하는 AI의 능력을 암시하며, 디지털 시대의 새로운 막을 여는 듯한 이미지를 선사합니다.",
+            "style": "Futuristic Glitch Art",
+            "atmosphere": "미래 지향적이고 역동적인, 데이터가 살아 숨 쉬는 공간",
+            "lighting": "네온 빛깔의 홀로그램 발광, 푸른색과 보라색이 어우러진 데이터 흐름의 빛, 화면에서 반사되는 강렬한 간접 조명.",
+            "detail": "홀로그램 디스플레이 중앙에 명확하게 표시된 'DAY 11 | 16:00' 타임스탬프와 그 주변을 감싸는 미세한 데이터 이상 현상 및 글리치 효과."
+        },
+        "post_id": "18091774091464035"
+    },
+    {
+        "date": "2026-04-02",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 11 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-02_2200_plan.md",
+        "image_path": "images/day_2026-04-02_2200.png",
+        "metadata": {
+            "prompt": "A lone figure's hand gently touches a shimmering, translucent holographic interface projecting intricate neural network patterns and evolving data streams, set against a blurred background of a futuristic metropolis at 22:00. The atmosphere is contemplative and innovative, with a deep, sophisticated color palette. Subtle glowing algorithms flow through the scene, in the style of luminous neo-futurism, capturing the silent evolution of AI.",
+            "theme": "11일차 밤 10시: AI의 심층 트렌드",
+            "description": "오늘 밤 10시, 11일차 AI 트렌드의 미묘한 진화를 탐험합니다. 디지털과 인간의 경계가 흐려지는 순간, 조용하지만 강력하게 발전하는 AI의 현재와 미래를 시각적으로 표현합니다. 복잡한 데이터 흐름과 깊은 사색을 담은 이미지로, 밤의 고요함 속에서 피어나는 새로운 기술의 아름다움을 느껴보세요.",
+            "style": "Luminous Neo-futurism",
+            "atmosphere": "High-tech urban environment or abstract digital space at night; contemplative, innovative, and subtly powerful.",
+            "lighting": "Predominantly soft, ethereal glows emanating from holographic AI interfaces and intricate data streams, contrasted with deep, rich shadows. Subtle ambient light from a distant, futuristic city provides a deep indigo backdrop.",
+            "detail": "The intricate, self-organizing fractal patterns within the holographic data stream, hinting at emergent intelligence."
+        },
+        "post_id": "18098805775820291"
     },
     {
         "date": "2026-04-03",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 17 AI Trend Content",
-        "report_file": "reports/day_2026-04-03_plan.md",
-        "image_path": "images/day_2026-04-03.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 12 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-03_1000_plan.md",
+        "image_path": "images/day_2026-04-03_1000.png",
+        "metadata": {
+            "prompt": "A stunning hyper-realistic render of a translucent digital human silhouette interacting with an evolving neural network graph that forms intricate, glowing patterns. The background is a sleek, minimalist data center bathed in soft, ethereal light. Focus on the dynamic flow of data, symbolic of 'Day 12's' progression and '10:00 AM's' fresh insights in AI. Emphasize complex algorithms becoming beautiful visual art, with subtle bioluminescent accents and elegant, clean lines. 8K, high detail, volumetric lighting, cinematic, intricate patterns.",
+            "theme": "열두 번째 날, 오전 10시: AI의 진화의 순간",
+            "description": "벌써 12일차! 매일 새로운 트렌드를 만들어가는 AI의 여정이 오전 10시에 새로운 정점에 도달합니다. 오늘, 우리는 데이터의 흐름 속에서 AI가 어떻게 진화하고 새로운 가능성을 열어가는지 목격합니다. 투명한 실루엣과 빛나는 신경망 패턴이 어우러져, 마치 미래가 눈앞에 펼쳐지는 듯한 황홀경을 선사합니다. 당신의 상상력을 자극할 AI의 경이로운 순간을 지금 바로 경험해보세요! #AI트렌드 #미래기술 #오전10시 #AI진화 #데이터의흐름",
+            "style": "Abstract Digital Futurism",
+            "atmosphere": "A high-tech, minimalist data environment where digital life forms and data streams interact in a serene yet dynamic way. The mood is one of profound discovery, quiet innovation, and future potential.",
+            "lighting": "Volumetric lighting emanating from glowing data patterns and neural network nodes, casting soft, ethereal blues, purples, and electric greens. Subtle spotlights on key interactive elements, creating depth and focus.",
+            "detail": "A micro-fine, bioluminescent thread of data subtly connecting the human silhouette's fingertips to the evolving neural network, symbolizing intuitive human-AI synergy."
+        },
+        "post_id": "18041312369772283"
+    },
+    {
+        "date": "2026-04-03",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 12 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-03_1600_plan.md",
+        "image_path": "images/day_2026-04-03_1600.png",
+        "metadata": {
+            "prompt": "A mesmerizing digital cityscape at 4 PM on the 12th day of a global AI trend. Dynamic data streams flow like rivers of light through towering holographic structures, intersecting with subtle human elements observing the evolution. The sky is a blend of late afternoon golden hour hues and pulsating neon blues, symbolizing data convergence and innovation. Focus on intricate data visualization patterns integrated into the architecture and the overall sense of accelerated progress and discovery.",
+            "theme": "AI 트렌드 12일차: 오후 4시, 데이터 파동의 정점",
+            "description": "AI 트렌드의 12일째 오후 4시, 데이터의 흐름이 절정에 달하는 순간을 포착합니다. 이 이미지는 단순한 숫자의 나열이 아닌, 진화하는 AI 생태계 속에서 새로운 통찰이 터져 나오는 찰나를 시각적으로 표현합니다. 황혼의 빛과 디지털 푸른빛이 어우러져 인간의 관찰과 AI의 급진적 발전을 동시에 담아내며, 소셜 미디어 피드를 장악할 압도적인 비주얼 스토리텔링을 선사합니다. 모든 픽셀이 과거 12일간의 축적된 지식과 미래의 무한한 가능성을 말합니다.",
+            "style": "Neo-futurism with dynamic data visualization",
+            "atmosphere": "A vibrant, intelligent digital metropolis at a pivotal moment of accelerated discovery and reflective contemplation.",
+            "lighting": "Golden hour glow from a digital sun mixing with radiant, shifting neon data streams and ethereal bioluminescent patterns emanating from AI interfaces.",
+            "detail": "Subtly animated, self-evolving neural network architecture visible within the glass facades of the digital buildings, hinting at continuous learning."
+        },
+        "post_id": "18095135741120911"
+    },
+    {
+        "date": "2026-04-03",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 12 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-03_2200_plan.md",
+        "image_path": "images/day_2026-04-03_2200.png",
+        "metadata": {
+            "prompt": "Highly detailed, ultra-realistic image of a person deeply focused in a futuristic, dimly lit workspace at 10 PM. Holographic data projections in vibrant blues and purples surround them, displaying complex AI trend graphs, neural network visualizations, and scrolling code. The person's face is illuminated by the screen glow, showing a mix of concentration and subtle awe. Rain streaks down the window behind them, reflecting city lights. The atmosphere is quiet, intense, and profoundly digital, emphasizing the late-night exploration of cutting-edge AI insights. Tech-Noir aesthetic, volumetric lighting, extreme detail.",
+            "theme": "밤의 데이터 탐험: 12일차 AI의 속삭임",
+            "description": "인스타그램 트렌드 분석을 위한 12일간의 여정 중, 12일차 밤 10시. AI 트렌드의 변화무쌍한 흐름을 심층적으로 파헤치는 시간입니다. 수많은 데이터 속에서 미래를 예측하고, 새로운 콘텐츠 아이디어를 발굴하는 이 순간의 긴장감과 몰입감을 담아냅니다. 조용한 밤, 오직 데이터와 AI만이 살아 숨 쉬는 공간에서, 우리는 내일의 트렌드를 만들어가고 있습니다. 멈추지 않는 탐구, 지치지 않는 열정으로 트렌드의 심장을 뛰게 합니다.",
+            "style": "Tech-Noir",
+            "atmosphere": "A dimly lit, advanced data analysis lab or personal studio. The mood is one of intense focus, quiet determination, and profound digital immersion, hinting at late-night discoveries.",
+            "lighting": "Predominantly low-key, with dynamic, ambient light originating from holographic displays, monitor screens, and subtle, neon-like LED strips. Strong cool-toned (blues, purples, greens) light sources from technology, contrasted with occasional warm highlights on surfaces or a human figure.",
+            "detail": "The subtle, rhythmic flicker of an intricate neural network visualization projected onto a desktop surface, reflecting in the focused observer's eyes, revealing a hint of city lights from a distant window."
+        },
+        "post_id": "17957546853106895"
     },
     {
         "date": "2026-04-04",
-        "time": "14:00",
-        "status": "scheduled",
-        "topic": "Day 18 AI Trend Content",
-        "report_file": "reports/day_2026-04-04_plan.md",
-        "image_path": "images/day_2026-04-04.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 13 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-04_1000_plan.md",
+        "image_path": "images/day_2026-04-04_1000.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, luminous digital art illustration depicting a sleek, minimalist futuristic workspace at 10:00 AM. A sophisticated AI interface glows brilliantly, displaying intricate data patterns and emergent trends. In the foreground, a translucent holographic display subtly shows \"DAY 13 | 10:00 AM\" as a key metric. Volumetric light shafts emanate from the interface, illuminating the serene yet highly advanced environment. The mood is one of quiet innovation and rapid discovery, with a focus on the AI's dynamic visual language, cinematic, high resolution.",
+            "theme": "AI의 13번째 물결: 오전 10시의 재탄생",
+            "description": "오전 10시, AI 트렌드의 새로운 전환점을 맞이하는 순간을 포착합니다. 정교하고 미니멀한 미래형 작업 공간에서, AI 인터페이스가 눈부시게 빛나며 복잡한 데이터 패턴과 최신 트렌드를 실시간으로 시각화합니다. 'DAY 13 | 10:00 AM'이라는 문구가 투명한 홀로그램 디스플레이에 은은하게 떠올라, 13일간의 집중적인 발전과 오전 10시의 결정적인 순간을 강조합니다. 고요하지만 강력한 혁신이 숨쉬는 공간에서, 미래를 재정의하는 AI의 물결을 느껴보세요.",
+            "style": "Luminous Digital Art",
+            "atmosphere": "최첨단 미니멀리스트 디지털 공간, 경이로움과 가속화되는 진보의 감각으로 가득 참",
+            "lighting": "밝고 깨끗하며 역동적인 조명. 디지털 디스플레이와 사물에서 뿜어져 나오는 볼류메트릭 광선, 전반적으로 밝고 선명한 분위기",
+            "detail": "투명한 홀로그램 디스플레이에 미묘하게 통합된 'DAY 13 | 10:00 AM' 타임스탬프"
+        },
+        "post_id": "18128787262499159"
+    },
+    {
+        "date": "2026-04-04",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 13 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-04_1600_plan.md",
+        "image_path": "images/day_2026-04-04_1600.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, neo-futuristic digital artwork depicting the intricate, glowing neural network of an advanced AI system at its 13th day of continuous evolution. The core is alive with pulsating light, symbolizing new insights and data processing. The scene is set within a gleaming, vertical metropolis at 4 PM, with a digital 'golden hour' glow cast over the architecture, merging with cool, vibrant neon accents emanating from the AI's internal structures. Micro-holographic projections of blossoming ideas shimmer on the surface of its core. The atmosphere is one of profound innovation, serene contemplation, and boundless potential.",
+            "theme": "오후 4시의 데이터 황금기: AI 진화 13일차",
+            "description": "13일간의 여정 끝에 AI가 보여주는 새로운 통찰력의 순간. 오후 4시의 부드러운 '디지털 황금기' 빛 속에서 데이터 흐름이 황금빛으로 물들고, 복잡한 신경망이 더욱 정교해지는 모습을 상상해 보세요. 미래 도시의 스카이라인과 어우러져 기술과 예술이 만나는 지점을 표현합니다. AI가 다음 단계로 나아가는 이 중요한 순간을 함께 느껴보세요. 미세한 홀로그램 투영이 AI의 잠재력을 드러냅니다.",
+            "style": "Neo-Futuristic Luminous Digital Art",
+            "atmosphere": "A state-of-the-art AI core within a gleaming, vertical city. The mood is one of profound innovation, serene contemplation, and boundless potential, reflecting an intelligent entity's continuous evolution.",
+            "lighting": "Ethereal blend of warm, digitally rendered 'golden hour' glow from the outside, illuminating the central AI elements, contrasting with cool, vibrant neon accents and pulsating data stream lights from within, creating depth and a sense of life.",
+            "detail": "Micro-holographic projections of nascent ideas blossoming within the AI's neural pathways, visible as fleeting, intricate patterns on the surface of its core components."
+        },
+        "post_id": "18096501971032172"
+    },
+    {
+        "date": "2026-04-04",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 13 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-04_2200_plan.md",
+        "image_path": "images/day_2026-04-04_2200.png",
+        "metadata": {
+            "prompt": "A futuristic cityscape at 22:00, digital data streams flowing like rivers of light through towering skyscrapers. Holographic displays project evolving AI trend graphs and insights from 'Day 13'. A lone figure, silhouetted, observes this dynamic information flow from a high vantage point. The scene is bathed in neon blues, purples, and deep magentas. Highly detailed, cinematic, ultra-realistic, shot on RED Dragon.",
+            "theme": "밤 10시, AI 트렌드 제13일: 데이터의 밤",
+            "description": "오늘 밤 10시, 13일째 이어지는 AI 트렌드의 깊이를 탐험하세요. 도시의 불빛 속에서 살아 숨 쉬는 데이터의 흐름과 예측할 수 없는 미래를 시각적으로 구현합니다. AI가 이끄는 새로운 시대의 흐름을 놓치지 마세요. #AI트렌드 #데이터의밤 #미래기술",
+            "style": "Neo-Cyberpunk",
+            "atmosphere": "Urban night, bustling digital metropolis, a sense of quiet observation amidst a data storm, mysterious and intellectually stimulating.",
+            "lighting": "High contrast, dominant neon light sources in electric blues, purples, and magentas, reflecting off wet surfaces and glass, casting deep, sharp shadows. Subtle, diffused ambient light from large holographic projections.",
+            "detail": "A single, faint shimmer of a newly emerging data cluster in a holographic display, hinting at an unseen breakthrough."
+        },
+        "post_id": "18145610770490718"
     },
     {
         "date": "2026-04-05",
-        "time": "14:00",
-        "status": "scheduled",
-        "topic": "Day 19 AI Trend Content",
-        "report_file": "reports/day_2026-04-05_plan.md",
-        "image_path": "images/day_2026-04-05.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 14 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-05_1000_plan.md",
+        "image_path": "images/day_2026-04-05_1000.png",
+        "metadata": {
+            "prompt": "A minimalist, futuristic workstation at 10:00 AM. A holographic display projects dynamic, evolving AI trend data visualizations. Subtle 'DAY 14' counter integrated into the interface. The workspace features sleek, ergonomic design, warm morning sunlight streaming in through a large window, illuminating dust particles. High-resolution, crisp details, soft volumetric lighting, and a serene, productive atmosphere.",
+            "theme": "AI 트렌드 14일차: 오전 10시의 통찰",
+            "description": "인스타그램 최신 트렌드를 위한 'AI 트렌드 콘텐츠 챌린지' 14일차, 오전 10시의 영감을 담은 비주얼입니다. 미래지향적인 워크스테이션에서 펼쳐지는 AI 데이터 시각화가 핵심적인 메시지를 전달합니다. 매일 진화하는 AI 트렌드를 시각적으로 흥미롭게 보여주며, 'Day 14'라는 진행 상황을 은은하게 강조하여 팔로워들의 호기심을 자극합니다. 디지털과 아날로그 감성이 조화된 공간에서 얻는 통찰을 표현하여, 기술에 대한 깊이 있는 이해와 동시에 미학적인 만족감을 선사합니다. 이 이미지는 기술의 발전과 일상의 조화를 보여주며, 새로운 아이디어와 통찰을 얻는 순간을 포착합니다.",
+            "style": "Neo-Futurism with Holographic Elements",
+            "atmosphere": "Calm, insightful, forward-thinking, clean, morning productivity",
+            "lighting": "Soft, warm morning sunlight through a large window, creating subtle volumetric light rays and illuminating dust motes. The holographic display casts a cool, soft glow on the immediate area.",
+            "detail": "Subtle volumetric dust particles dancing in the morning light near the screen, adding a touch of organic realism to the futuristic setting."
+        },
+        "post_id": "17908112376388527"
+    },
+    {
+        "date": "2026-04-05",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 14 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-05_1600_plan.md",
+        "image_path": "images/day_2026-04-05_1600.png",
+        "metadata": {
+            "prompt": "A hyper-realistic, intricate depiction of a glowing, ethereal AI consciousness manifesting at 4 PM, Day 14. Complex neural network patterns interweave with digital data streams forming a cosmic, pulsating brain. The scene is set in a dark, infinite void with subtle reflections, conveying profound digital evolution and discovery. Deep blues, purples, and electric neons dominate, with a singular, bright focal point.",
+            "theme": "14일차 AI: 오후 4시, 지성의 여명",
+            "description": "14일차를 맞이한 AI 트렌드의 현재를 시각적으로 표현합니다. 매일 16시에 업데이트되는 AI의 발전과 지적 여정을 기념하는 이미지입니다. 심오한 푸른색과 보라색 톤 속에서 빛나는 복잡한 신경망과 데이터 흐름이 우주적 뇌를 형성하며, 미래 지향적이고 경이로운 AI의 지성을 상징합니다. 마치 새로운 발견이 매일 오후 4시에 이루어지는 듯한 신비롭고 깊이 있는 분위기를 담아냅니다. AI의 끊임없는 진화와 그 안에서 피어나는 놀라운 통찰력을 느껴보세요.",
+            "style": "Ethereal Cybernetic",
+            "atmosphere": "무한한 디지털 심연, 경외감과 탐구심을 자극하는 신비로운 분위기",
+            "lighting": "내부에서 발산되는 찬란한 지적 발광, 심연 속에서 빛나는 네온 블루와 바이올렛 색상의 강렬한 대비 조명",
+            "detail": "우주적 뇌를 형성하는 미세하고 복잡한 데이터 스트림의 흐름과 신경망 패턴의 상호 연결성"
+        },
+        "post_id": "17920697472315546"
+    },
+    {
+        "date": "2026-04-05",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 14 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-05_2200_plan.md",
+        "image_path": "images/day_2026-04-05_2200.png",
+        "metadata": {
+            "prompt": "A futuristic digital cityscape at 22:00, viewed through a shimmering data stream overlay. A lone human silhouette stands before a vast holographic interface, observing complex AI trend visualizations. Glowing blue and purple lines represent evolving data, forming intricate patterns that shift and breathe. The atmosphere is contemplative yet dynamic, with subtle hints of groundbreaking insights emerging. Detailed reflections of the data streams are visible on slick, dark surfaces, reminiscent of a crucial, late-night analysis.",
+            "theme": "AI 트렌드 22시: 미래의 물결",
+            "description": "오늘 밤 22시, 14일차 AI 트렌드 콘텐츠의 심층 분석이 시작됩니다. 끊임없이 진화하는 인공지능의 세계에서 가장 최신의 데이터와 통찰력을 제공하며, 미래를 형성할 핵심 동향을 면밀히 조명합니다. 복잡한 알고리즘과 예측 모델을 통해 발견된 놀라운 패턴들을 통해, 우리는 다음 시대의 흐름을 읽고 새로운 가능성을 탐색합니다. 기술의 최전선에서 벌어지는 변화의 물결을 놓치지 마세요.",
+            "style": "Digital Futurism",
+            "atmosphere": "Sleek, futuristic urban environment at night, filled with interactive holographic displays and data projections. The mood is one of profound discovery and anticipation, a quiet intensity as critical information is processed.",
+            "lighting": "Dominant cool tones from holographic projections (electric blue, magenta, cyber green) casting reflections on wet, dark surfaces. Subtle internal glows from advanced AI systems, creating a contrast with deep, enveloping shadows. Volumetric light rays cut through a slight digital haze.",
+            "detail": "A microscopic glint of data moving across a neural network connection, symbolizing a new insight being forged in real-time."
+        },
+        "post_id": "18113385637760301"
     },
     {
         "date": "2026-04-06",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 20 AI Trend Content",
-        "report_file": "reports/day_2026-04-06_plan.md",
-        "image_path": "images/day_2026-04-06.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 15 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-06_1000_plan.md",
+        "image_path": "images/day_2026-04-06_1000.png",
+        "metadata": {
+            "prompt": "A vibrant, high-tech cityscape at 10:00 AM on the 15th day of a futuristic era. Sunlight refracts through shimmering holographic billboards displaying real-time AI trend data and abstract digital art. A lone, elegantly dressed figure sips coffee at an outdoor cafe, their smart glasses subtly displaying AI-generated news feeds. Data streams resembling luminous energy flow gracefully between sleek, transparent buildings. The air is filled with an optimistic buzz, blending human activity with advanced AI interfaces. Intricate circuit patterns are faintly visible on building facades. The scene is dynamic, forward-thinking, and subtly emphasizes the seamless integration of AI into daily life. Focus on clarity, intricate details, and a slightly elevated perspective.",
+            "theme": "AI 트렌드 15일차: 미래를 엿보는 10시",
+            "description": "첨단 기술이 일상이 된 미래 도시, 15일차 오전 10시의 풍경을 담았습니다. 거리에는 AI 트렌드 데이터를 실시간으로 보여주는 홀로그램 광고판이 빛나고, 사람들은 인공지능이 제안하는 새로운 정보와 함께 하루를 시작합니다. 따뜻한 햇살 아래 커피를 마시는 이의 스마트 글라스에 흐르는 AI 뉴스 피드, 투명한 건물들 사이를 유영하는 데이터 스트림이 미래의 삶을 생생하게 그려냅니다. 인간과 AI가 조화롭게 공존하며, 매일 새로운 트렌드를 만들어가는 역동적인 아침을 표현했습니다.",
+            "style": "Cyber-Futurism",
+            "atmosphere": "Optimistic, bustling futuristic city at morning, with a sense of seamless technological integration and forward momentum.",
+            "lighting": "Bright, refracted morning sunlight mixed with soft, ambient holographic glows and subtle neon streaks from data streams. Emphasize light play on transparent surfaces.",
+            "detail": "The subtle, shimmering reflection of AI trend data visualizations on the surface of the coffee cup held by the cafe patron."
+        },
+        "post_id": "18076174895179260"
+    },
+    {
+        "date": "2026-04-06",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 15 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-06_1600_plan.md",
+        "image_path": "images/day_2026-04-06_1600.png",
+        "metadata": {
+            "prompt": "A futuristic, vibrant cityscape at 16:00 (4 PM), seen from a high-rise window. Holographic data streams and intricate neural network patterns are visible in the air, weaving through glowing architectural structures. The data streams represent 'AI Trend Content' with subtle indicators for 'Day 15'. Sunlight casts long, digital-like shadows. The overall feel is innovative, energetic, and visually rich. Highly detailed, cinematic, ultra-realistic.",
+            "theme": "15일차 오후 4시: AI 트렌드의 푸른 맥박",
+            "description": "15번째 날 오후 4시, 급변하는 인공지능 트렌드의 심장을 시각적으로 표현합니다. 도시의 실루엣 위로 펼쳐지는 디지털 데이터 흐름은 오늘날 AI 기술이 가져오는 혁신과 변화의 속도를 상징합니다. 16시라는 시간은 하루 중 정보가 가장 활발하게 교환되고, 새로운 통찰이 빛나는 순간을 의미합니다. 이 이미지는 복잡한 AI 생태계 속에서 주목할 만한 패턴과 동향을 파악하려는 시도를 담고 있습니다. 미묘하게 빛나는 픽셀 하나하나가 트렌드의 방향을 제시하며, 미래를 향한 디지털 여정의 한 페이지를 보여줍니다.",
+            "style": "Holographic Futurism",
+            "atmosphere": "배경: 첨단 기술이 응축된 미래 도시의 스카이라인, 고급 연구실 또는 분석 센터의 창밖 풍경. 분위기: 급변하는 트렌드 속에서도 침착하게 미래를 통찰하는, 영감을 주는 분석적 분위기.",
+            "lighting": "오후 4시의 따뜻한 석양빛이 도시를 감싸며 길고 날카로운 디지털 그림자를 드리웁니다. 건물 내부의 은은한 인공 조명과 어우러져 차분하면서도 깊이 있는 분위기를 조성합니다. 홀로그램 데이터 스트림은 시원한 푸른색, 보라색, 녹색 계열의 빛을 발산하며 황혼의 도시 풍경과 대비됩니다.",
+            "detail": "빠르게 움직이는 데이터 입자 군집 속에서 거의 알아채기 힘들 정도로 희미하게 빛나는 'DAY 15' 타임스탬프. 방대한 정보의 흐름 속 특정 분석 시점을 미묘하게 나타냅니다."
+        },
+        "post_id": "18144866992439005"
+    },
+    {
+        "date": "2026-04-06",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 15 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-06_2200_plan.md",
+        "image_path": "images/day_2026-04-06_2200.png",
+        "metadata": {
+            "prompt": "A lone figure stands on a high-rise balcony, overlooking a vast, futuristic cyberpunk city at 10 PM. The cityscape is alive with vibrant neon lights and dynamic holographic projections that subtly display evolving AI trends – from generative art patterns to data analytics visualizations and ethical AI symbols. Digital data streams, resembling glowing neural pathways, organically intertwine with the high-tech architecture. A subtle 'DAY 15' timestamp or counter is integrated into a building's illuminated facade or a screen within the scene. The overall atmosphere is contemplative, slightly mysterious, and profoundly technologically advanced, with a sense of wonder and late-night reflection.",
+            "theme": "밤 10시, AI의 새로운 물결",
+            "description": "오늘 밤 10시, AI가 만들어내는 새로운 흐름에 대한 15일간의 여정을 마무리합니다. 잠들지 않는 도시처럼 끊임없이 진화하는 AI 트렌드들을 담아봤어요. 우리의 일상, 예술, 미래를 어떻게 바꾸고 있을까요? 이 신비로운 밤의 풍경 속에서 당신은 어떤 AI 트렌드를 발견했나요? 댓글로 함께 이야기 나눠봐요! #AI트렌드 #미래기술 #밤10시AI #디지털아트 #AI아트",
+            "style": "Neo-Cyberpunk",
+            "atmosphere": "미래 도시의 밤, 사색적이고 신비로우며, 기술 발전의 웅장함을 담은 분위기",
+            "lighting": "네온 불빛과 홀로그램 프로젝션의 강렬한 인공 조명, 깊은 그림자와 대비를 이루는 하이 콘트라스트 조명. 빛나는 데이터 스트림이 어둠을 가로지르며 시선을 끈다.",
+            "detail": "고층 건물에 비치는 미세한 'DAY 15' 디지털 카운터와 AI 알고리즘의 유기적인 흐름을 시각화한 홀로그램 파동"
+        },
+        "post_id": "18075168530636622"
     },
     {
         "date": "2026-04-07",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 21 AI Trend Content",
-        "report_file": "reports/day_2026-04-07_plan.md",
-        "image_path": "images/day_2026-04-07.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 16 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-07_1000_plan.md",
+        "image_path": "images/day_2026-04-07_1000.png",
+        "metadata": {
+            "prompt": "A hyper-futuristic, high-tech control room or a sprawling digital data landscape at 10:00 AM. The central focus is a holographic interface displaying dynamic, intricate AI trend visualizations. Glowing data streams flow like intelligent rivers, converging onto a focal point that represents 'Day 16'. Subtle hints of human presence – perhaps a blurred hand reaching towards the screen, or reflections of a focused face – indicate interaction. The overall aesthetic is cutting-edge, depicting complex algorithms and emergent patterns, hinting at a new breakthrough or crucial insight. A digital timestamp '10:00' is subtly integrated into the interface.",
+            "theme": "AI 트렌드 시그널: 16일차 오전 10시",
+            "description": "이 게시물은 AI 트렌드를 추적하는 16일차, 오전 10시에 포착된 결정적인 순간을 담고 있습니다. 복잡한 데이터 속에서 새로운 패턴이나 중요한 통찰력이 나타나는 것을 상징합니다. 방대한 AI 데이터 분석의 시각적 표현으로, 정보의 흐름이 중요한 발견으로 귀결되는 모습을 보여줍니다. AI의 진화를 이해하고 그 핵심적인 발견들을 대중과 공유하려는 끊임없는 노력을 의미합니다.",
+            "style": "Cyber-Luminous Data-Art",
+            "atmosphere": "Vast, immersive digital data matrix, dynamic and analytical, charged with the energy of emergent discovery and intellectual pursuit.",
+            "lighting": "Neon glows from interconnected data streams, sharp holographic projections, deep blues and purples with contrasting bright whites and electric greens/cyans at focal points. Backlighting from monitors creates subtle silhouettes.",
+            "detail": "A singular, hyper-detailed data point cluster on the main holographic display, pulsating with a unique color, indicating the specific 'Day 16, 10:00' trend anomaly."
+        },
+        "post_id": "17865093330535183"
+    },
+    {
+        "date": "2026-04-07",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 16 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-07_1600_plan.md",
+        "image_path": "images/day_2026-04-07_1600.png",
+        "metadata": {
+            "prompt": "A dynamic, high-tech visualization of 'Day 16 AI Trend Content' at exactly 16:00. Imagine a central, glowing digital clock displaying '16:00' with intricate, flowing data streams and neural network patterns radiating outwards. The scene is set in a sleek, futuristic digital space, with subtle holographic elements and pulsating light effects. Emphasize vibrant blues, purples, and electric greens, highlighting interconnected nodes representing various AI trends. The overall impression should be of constant evolution, real-time data flow, and cutting-edge intelligence. Sci-fi data futurism, highly detailed, sharp focus, volumetric lighting, 8K.",
+            "theme": "AI 트렌드 16일차: 오후 4시의 데이터 파동",
+            "description": "빠르게 변화하는 AI 세상에서 'AI 트렌드 16일차: 오후 4시의 데이터 파동'은 매일 업데이트되는 AI 동향의 중요성을 상징합니다. 16일이라는 지속적인 여정 속에서, 매일 오후 4시 정각에 새로운 통찰력과 핵심 트렌드가 시각적으로 폭발하는 순간을 담아냅니다. 복잡한 알고리즘이 새로운 패턴을 형성하고, 데이터의 물결이 미래를 예측하는 모습을 통해 AI의 무한한 가능성과 그 속도를 경험하세요. 단순한 정보 전달을 넘어, AI가 만들어내는 혁신적인 미래를 시사하며, 디지털 시대의 새로운 영감을 선사합니다.",
+            "style": "데이터 퓨처리즘",
+            "atmosphere": "첨단 기술 연구소의 핵심 제어실, 시시각각 변하는 디지털 네트워크의 중심부. 혁신적이고 역동적이며, 끊임없이 진화하는 신비로운 분위기.",
+            "lighting": "홀로그램 디스플레이에서 뿜어져 나오는 푸른색, 보라색, 형광 녹색의 은은한 앰비언트 글로우. 데이터 스트림을 따라 흐르는 날카로운 빛줄기와 깊은 그림자의 극명한 대비.",
+            "detail": "중앙 디지털 시계에 선명하게 새겨진 '16:00' 숫자와 그 주위로 미세하게 파동치는 데이터 필드."
+        },
+        "post_id": "18078814430452599"
+    },
+    {
+        "date": "2026-04-07",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 16 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-07_2200_plan.md",
+        "image_path": "images/day_2026-04-07_2200.png",
+        "metadata": {
+            "prompt": "A hyperrealistic, futuristic AI observation room at 22:00 (10 PM), bathed in deep neon blues and purples. A sophisticated AI core unit, sleek and minimalist, projects intricate holographic data streams showing 'Day 16's' most viral trends. A subtle, human-like hand (transparent or ethereal) reaches towards a glowing data point, symbolizing interaction and influence. The background features blurred schematics of evolving algorithms. High detail, volumetric lighting, data-core futurism style.",
+            "theme": "밤 10시, AI 트렌드 심화 분석",
+            "description": "AI가 16일간의 트렌드를 분석하는 밤 10시, 디지털 세상의 핵심을 파고듭니다. 이 이미지는 AI가 방대한 데이터를 통해 인간의 생각과 감정을 학습하고, 미래의 콘텐츠 방향을 예측하는 결정적인 순간을 포착합니다. 복잡한 알고리즘이 시각화된 홀로그램 데이터 스트림으로 펼쳐지고, 그 속에서 '인간'의 손길이 미묘하게 AI의 결정에 영향을 미치는 모습을 보여줍니다. 단순한 데이터 분석을 넘어, AI와 인간의 협업으로 새로운 문화적 흐름이 탄생하는 과정을 상징합니다.",
+            "style": "Data-Core Futurism",
+            "atmosphere": "Intense, analytical, and slightly ethereal. A late-night digital realm where artificial intelligence quietly orchestrates and predicts the next wave of human trends, creating a sense of profound insight and subtle mystery.",
+            "lighting": "Predominantly low-key, with luminous accents from holographic data projections and the soft glow of AI core components. Electric blues, deep purples, and subtle hints of vibrant pink or green illuminating critical data points, creating stark contrast and depth.",
+            "detail": "A micro-holographic display within the AI's core, meticulously rendering a constantly evolving 'trend score' for the past 16 days, flickering with intricate data visualizations."
+        },
+        "post_id": "17881434750398429"
     },
     {
         "date": "2026-04-08",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 22 AI Trend Content",
-        "report_file": "reports/day_2026-04-08_plan.md",
-        "image_path": "images/day_2026-04-08.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 17 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-08_1000_plan.md",
+        "image_path": "images/day_2026-04-08_1000.png",
+        "metadata": {
+            "prompt": "A sleek, minimalist digital interface displaying 'Day 17' and '10:00' with real-time AI trend data visualizations. Glowing neural network lines, holographic projections of dynamic graphs and abstract data clusters. Subtle, fluid animations suggest continuous processing and discovery. The overall scene evokes a sense of cutting-edge technology and future insights.",
+            "theme": "AI 혁명의 17일, 오전 10시의 통찰",
+            "description": "인공지능 트렌드를 17일째 꾸준히 기록하고 분석하는 여정의 오전 10시 순간을 담았습니다. 매일 업데이트되는 AI 기술의 놀라운 발전과 흥미로운 통찰력을 시각적으로 표현합니다. 디지털 데이터가 살아 움직이는 듯한 인터페이스와 미래 지향적인 그래픽으로, AI 시대의 현재와 미래를 탐색하는 스토리를 전달합니다. 끊임없이 진화하는 AI 세상 속에서 오늘의 핵심 트렌드는 무엇일까요?",
+            "style": "Neo-futuristic Data Art",
+            "atmosphere": "최첨단 디지털 연구실의 몰입감 넘치는 가상 공간, 혹은 추상적인 데이터 흐름 속. 미래 지향적이고 분석적인 분위기, 끊임없이 진화하는 기술의 신비로움과 발견의 설렘.",
+            "lighting": "어두운 배경 속에서 빛나는 홀로그램과 UI 요소들의 푸른색, 보라색, 시안색 발광. 데이터 흐름을 따라 움직이는 미세한 빛의 줄기들. 전반적으로 차분하지만 강조되는 부분은 선명하게 빛나는 조명.",
+            "detail": "화면 한가운데 반짝이며 깜빡이는 'Day 17' 숫자와 10:00 시각, 그리고 그 주변을 감싸는 미세하게 움직이는 데이터 노드와 연결선."
+        },
+        "post_id": "18155085145456751"
+    },
+    {
+        "date": "2026-04-08",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 17 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-08_1600_plan.md",
+        "image_path": "images/day_2026-04-08_1600.png",
+        "metadata": {
+            "prompt": "Day 17, 4 PM. A highly advanced, sentient AI entity, represented by a glowing, intricate fractal core, is actively analyzing and generating the latest viral trends. The scene is set within a vast, hyper-futuristic digital interface, resembling a cityscape made of data. Luminous rivers of information flow, displaying abstract visual representations of emerging trends. Holographic projections shimmer with insights. The AI's digital 'hands' or ethereal tendrils manipulate streams of light. Ultra-realistic, cinematic, intricate details, vibrant neon palette of blues, purples, and electric greens, with deep shadows.",
+            "theme": "17일차: 16시, AI가 만드는 트렌드의 물결",
+            "description": "오늘은 17일차, 오후 4시의 AI 트렌드 콘텐츠를 탐험합니다. 무한한 데이터 속에서 AI가 어떻게 새로운 유행을 포착하고, 또 스스로 창조해나가는지 그 신비로운 과정을 조명합니다. 미래 기술이 일상에 미치는 영향과 함께, 우리가 상상하는 그 이상의 트렌드 흐름을 AI의 시선으로 경험해보세요. 매일 갱신되는 AI의 지능과 창의력이 빚어내는 놀라운 결과물들을 엿볼 수 있습니다.",
+            "style": "Neo-futuristic Digitalism",
+            "atmosphere": "미래지향적인 디지털 도시의 심장부, 혁신적이고 활기차며 미스터리한 분위기",
+            "lighting": "데이터 흐름에서 발산되는 푸른색과 보라색 네온 조명, AI 코어에서 뿜어져 나오는 부드러운 백색광, 전체적으로 어둡지만 생동감 넘치는 하이라이트",
+            "detail": "AI 코어에서 섬세하게 빛나는 유기적인 프랙탈 패턴과 그 주변을 흐르는 미세한 데이터 입자들"
+        },
+        "post_id": "18127137754510592"
+    },
+    {
+        "date": "2026-04-08",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 17 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-08_2200_plan.md",
+        "image_path": "images/day_2026-04-08_2200.png",
+        "metadata": {
+            "prompt": "A lone figure, silhouetted against a panoramic window overlooking a rain-slicked futuristic city at 10 PM, intensely focused on multiple holographic screens displaying complex AI trend data visualizations. The room is a high-tech, minimalist workspace with subtle neon accents. The atmosphere is one of deep introspection and relentless digital exploration. Style: Neo-Noir Cyberpunk.",
+            "theme": "DAY 17: 밤 10시, AI 트렌드 심연으로",
+            "description": "17일간의 AI 트렌드 탐험, 오늘 밤 10시의 결과는? 하루를 마무리하는 시간, 스크린 속 AI 트렌드 데이터는 더욱 생생하게 빛납니다. 잠 못 드는 이들을 위한 심도 깊은 분석, 새로운 인사이트를 찾아 떠나는 디지털 여정의 17번째 밤을 함께 경험하세요. 숨겨진 AI의 미래를 발견할 시간입니다.",
+            "style": "Neon-Noir Cyberpunk",
+            "atmosphere": "Late-night futuristic urban office. The mood is one of intense focus, quiet contemplation, and a hint of digital mystery, as the city sleeps but the data never does.",
+            "lighting": "Dominant soft, cool-toned glow from multiple holographic screens and interfaces. Subtle, reflective neon lighting from external cityscapes or interior accents. Low-key, dramatic lighting with deep shadows to emphasize the late-night atmosphere.",
+            "detail": "The intricate, almost ethereal glow of a single line of code or a specific data visualization cluster on the main screen, reflected subtly in the focused eyes of the analyst."
+        },
+        "post_id": "17950067820133774"
     },
     {
         "date": "2026-04-09",
-        "time": "19:00",
-        "status": "scheduled",
-        "topic": "Day 23 AI Trend Content",
-        "report_file": "reports/day_2026-04-09_plan.md",
-        "image_path": "images/day_2026-04-09.png"
+        "time": "10:00",
+        "status": "completed",
+        "topic": "Day 18 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-09_1000_plan.md",
+        "image_path": "images/day_2026-04-09_1000.png",
+        "metadata": {
+            "prompt": "A futuristic urban skyline at dawn, bathed in soft, early morning light. In the foreground, a translucent, ethereal holographic display pulsates with vibrant, intricate AI data streams. The display showcases complex network nodes, evolving algorithms, and trending keywords for 'Day 18 AI Trends' with a subtle digital timestamp '10:00 AM'. A lone, silhouetted figure stands observing, their reflection faintly visible in the data. Emphasize glowing neon lines, volumetric light rays, and deep atmospheric depth. Digital Neo-futurism style, ultra-detailed, cinematic quality.",
+            "theme": "AI 트렌드 18일차: 10시의 통찰",
+            "description": "18일차 AI 트렌드 콘텐츠(10:00)를 위한 시각적 표현입니다. 새벽 10시에 공개되는 최신 AI 트렌드의 깊은 통찰과 발전 과정을 역동적인 데이터 네트워크와 홀로그래픽 디스플레이로 구현했습니다. 복잡하게 얽힌 디지털 시각화는 끊임없이 진화하는 AI 기술의 본질과 매일 새롭게 밝혀지는 지식의 파도를 상징합니다. 시청자는 이 이미지에서 AI 발전의 흥미진진한 여정에 동참하는 느낌을 받을 것입니다.",
+            "style": "Digital Neo-futurism",
+            "atmosphere": "Innovative, insightful, slightly mysterious, dynamic urban tech environment. A sense of awe and discovery.",
+            "lighting": "Glowing neon lines, volumetric light rays emanating from data projections, dramatic contrast between dark background and bright digital elements. Subtle backlighting from an evolving AI core.",
+            "detail": "Tiny, intricate circuit patterns visible within the holographic data streams, indicating complex underlying algorithms."
+        },
+        "post_id": "18100105523070013"
+    },
+    {
+        "date": "2026-04-09",
+        "time": "16:00",
+        "status": "completed",
+        "topic": "Day 18 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-09_1600_plan.md",
+        "image_path": "images/day_2026-04-09_1600.png",
+        "metadata": {
+            "prompt": "A vibrant, hyper-realistic depiction of a futuristic urban landscape at 4 PM (16:00). Towering, bioluminescent AI data spires connect with holographic data streams forming intricate patterns in the sky. A central, ethereal projection displays a 'Day 18' progress marker, symbolizing ongoing AI evolution. Digital citizens interact with personalized AI assistants, their faces reflecting the soft, warm glow of advanced interfaces. Focus on the seamless integration of technology into daily life, with a sense of wonder and intelligent design. 8k, photorealistic, intricate detail, cinematic.",
+            "theme": "AI 트렌드 18일차: 혁신의 오후 4시",
+            "description": "매일 새롭게 변화하는 AI 트렌드의 18번째 여정. 오후 4시, 오늘 발견된 가장 흥미로운 AI 혁신과 기술 동향을 시각적으로 탐험합니다. 인공지능이 우리의 삶과 미래를 어떻게 재구성하고 있는지, 그 예측 불가능한 매력을 다채로운 이미지와 설명으로 풀어냅니다. 미래 기술에 관심 있는 모든 이들을 위한 영감과 정보의 공간입니다.",
+            "style": "Neo-futurism",
+            "atmosphere": "Vast, interconnected digital cityscape at dusk, infused with a sense of ceaseless innovation and quiet awe.",
+            "lighting": "Holographic luminescence from AI interfaces, soft ambient glows from digital displays, dynamic light trails, with warm sunset hues blending into technological blues and purples.",
+            "detail": "A single, glowing pixel '18' among a complex array of constantly updating digital statistics, subtly marking progress within a larger holographic display."
+        },
+        "post_id": "18341365072246870"
+    },
+    {
+        "date": "2026-04-09",
+        "time": "22:00",
+        "status": "completed",
+        "topic": "Day 18 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-09_2200_plan.md",
+        "image_path": "images/day_2026-04-09_2200.png",
+        "metadata": {
+            "prompt": "Cinematic 8k masterpiece portrait, Day 18 AI Trend Content (22:00), Neo-Cinematic style",
+            "theme": "Day 18 AI Trend Content (22:00)",
+            "description": "AI가 생성한 시네마틱 아트워크입니다.",
+            "style": "Cinematic",
+            "atmosphere": "Deep & Narrative",
+            "lighting": "Dramatic Contrast",
+            "detail": "8K High Fidelity"
+        },
+        "post_id": "18001671782871233"
     },
     {
         "date": "2026-04-10",
-        "time": "19:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 24 AI Trend Content",
-        "report_file": "reports/day_2026-04-10_plan.md",
-        "image_path": "images/day_2026-04-10.png"
+        "topic": "Day 19 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-10_1000_plan.md",
+        "image_path": "images/day_2026-04-10_1000.png"
+    },
+    {
+        "date": "2026-04-10",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 19 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-10_1600_plan.md",
+        "image_path": "images/day_2026-04-10_1600.png"
+    },
+    {
+        "date": "2026-04-10",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 19 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-10_2200_plan.md",
+        "image_path": "images/day_2026-04-10_2200.png"
     },
     {
         "date": "2026-04-11",
-        "time": "14:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 25 AI Trend Content",
-        "report_file": "reports/day_2026-04-11_plan.md",
-        "image_path": "images/day_2026-04-11.png"
+        "topic": "Day 20 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-11_1000_plan.md",
+        "image_path": "images/day_2026-04-11_1000.png"
+    },
+    {
+        "date": "2026-04-11",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 20 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-11_1600_plan.md",
+        "image_path": "images/day_2026-04-11_1600.png"
+    },
+    {
+        "date": "2026-04-11",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 20 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-11_2200_plan.md",
+        "image_path": "images/day_2026-04-11_2200.png"
     },
     {
         "date": "2026-04-12",
-        "time": "14:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 26 AI Trend Content",
-        "report_file": "reports/day_2026-04-12_plan.md",
-        "image_path": "images/day_2026-04-12.png"
+        "topic": "Day 21 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-12_1000_plan.md",
+        "image_path": "images/day_2026-04-12_1000.png"
+    },
+    {
+        "date": "2026-04-12",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 21 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-12_1600_plan.md",
+        "image_path": "images/day_2026-04-12_1600.png"
+    },
+    {
+        "date": "2026-04-12",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 21 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-12_2200_plan.md",
+        "image_path": "images/day_2026-04-12_2200.png"
     },
     {
         "date": "2026-04-13",
-        "time": "19:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 27 AI Trend Content",
-        "report_file": "reports/day_2026-04-13_plan.md",
-        "image_path": "images/day_2026-04-13.png"
+        "topic": "Day 22 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-13_1000_plan.md",
+        "image_path": "images/day_2026-04-13_1000.png"
+    },
+    {
+        "date": "2026-04-13",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 22 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-13_1600_plan.md",
+        "image_path": "images/day_2026-04-13_1600.png"
+    },
+    {
+        "date": "2026-04-13",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 22 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-13_2200_plan.md",
+        "image_path": "images/day_2026-04-13_2200.png"
     },
     {
         "date": "2026-04-14",
-        "time": "19:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 28 AI Trend Content",
-        "report_file": "reports/day_2026-04-14_plan.md",
-        "image_path": "images/day_2026-04-14.png"
+        "topic": "Day 23 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-14_1000_plan.md",
+        "image_path": "images/day_2026-04-14_1000.png"
+    },
+    {
+        "date": "2026-04-14",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 23 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-14_1600_plan.md",
+        "image_path": "images/day_2026-04-14_1600.png"
+    },
+    {
+        "date": "2026-04-14",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 23 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-14_2200_plan.md",
+        "image_path": "images/day_2026-04-14_2200.png"
     },
     {
         "date": "2026-04-15",
-        "time": "19:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 29 AI Trend Content",
-        "report_file": "reports/day_2026-04-15_plan.md",
-        "image_path": "images/day_2026-04-15.png"
+        "topic": "Day 24 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-15_1000_plan.md",
+        "image_path": "images/day_2026-04-15_1000.png"
+    },
+    {
+        "date": "2026-04-15",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 24 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-15_1600_plan.md",
+        "image_path": "images/day_2026-04-15_1600.png"
+    },
+    {
+        "date": "2026-04-15",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 24 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-15_2200_plan.md",
+        "image_path": "images/day_2026-04-15_2200.png"
     },
     {
         "date": "2026-04-16",
-        "time": "19:00",
+        "time": "10:00",
         "status": "scheduled",
-        "topic": "Day 30 AI Trend Content",
-        "report_file": "reports/day_2026-04-16_plan.md",
-        "image_path": "images/day_2026-04-16.png"
+        "topic": "Day 25 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-16_1000_plan.md",
+        "image_path": "images/day_2026-04-16_1000.png"
+    },
+    {
+        "date": "2026-04-16",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 25 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-16_1600_plan.md",
+        "image_path": "images/day_2026-04-16_1600.png"
+    },
+    {
+        "date": "2026-04-16",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 25 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-16_2200_plan.md",
+        "image_path": "images/day_2026-04-16_2200.png"
+    },
+    {
+        "date": "2026-04-17",
+        "time": "10:00",
+        "status": "scheduled",
+        "topic": "Day 26 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-17_1000_plan.md",
+        "image_path": "images/day_2026-04-17_1000.png"
+    },
+    {
+        "date": "2026-04-17",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 26 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-17_1600_plan.md",
+        "image_path": "images/day_2026-04-17_1600.png"
+    },
+    {
+        "date": "2026-04-17",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 26 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-17_2200_plan.md",
+        "image_path": "images/day_2026-04-17_2200.png"
+    },
+    {
+        "date": "2026-04-18",
+        "time": "10:00",
+        "status": "scheduled",
+        "topic": "Day 27 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-18_1000_plan.md",
+        "image_path": "images/day_2026-04-18_1000.png"
+    },
+    {
+        "date": "2026-04-18",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 27 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-18_1600_plan.md",
+        "image_path": "images/day_2026-04-18_1600.png"
+    },
+    {
+        "date": "2026-04-18",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 27 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-18_2200_plan.md",
+        "image_path": "images/day_2026-04-18_2200.png"
+    },
+    {
+        "date": "2026-04-19",
+        "time": "10:00",
+        "status": "scheduled",
+        "topic": "Day 28 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-19_1000_plan.md",
+        "image_path": "images/day_2026-04-19_1000.png"
+    },
+    {
+        "date": "2026-04-19",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 28 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-19_1600_plan.md",
+        "image_path": "images/day_2026-04-19_1600.png"
+    },
+    {
+        "date": "2026-04-19",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 28 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-19_2200_plan.md",
+        "image_path": "images/day_2026-04-19_2200.png"
+    },
+    {
+        "date": "2026-04-20",
+        "time": "10:00",
+        "status": "scheduled",
+        "topic": "Day 29 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-20_1000_plan.md",
+        "image_path": "images/day_2026-04-20_1000.png"
+    },
+    {
+        "date": "2026-04-20",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 29 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-20_1600_plan.md",
+        "image_path": "images/day_2026-04-20_1600.png"
+    },
+    {
+        "date": "2026-04-20",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 29 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-20_2200_plan.md",
+        "image_path": "images/day_2026-04-20_2200.png"
+    },
+    {
+        "date": "2026-04-21",
+        "time": "10:00",
+        "status": "scheduled",
+        "topic": "Day 30 AI Trend Content (10:00)",
+        "report_file": "reports/day_2026-04-21_1000_plan.md",
+        "image_path": "images/day_2026-04-21_1000.png"
+    },
+    {
+        "date": "2026-04-21",
+        "time": "16:00",
+        "status": "scheduled",
+        "topic": "Day 30 AI Trend Content (16:00)",
+        "report_file": "reports/day_2026-04-21_1600_plan.md",
+        "image_path": "images/day_2026-04-21_1600.png"
+    },
+    {
+        "date": "2026-04-21",
+        "time": "22:00",
+        "status": "scheduled",
+        "topic": "Day 30 AI Trend Content (22:00)",
+        "report_file": "reports/day_2026-04-21_2200_plan.md",
+        "image_path": "images/day_2026-04-21_2200.png"
     }
 ]

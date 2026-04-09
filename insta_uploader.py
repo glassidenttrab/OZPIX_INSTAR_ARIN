@@ -1,7 +1,21 @@
+import sys
 import os
 import time
+import datetime
 import requests
+import json
+from PIL import Image
+from io import BytesIO
 from dotenv import load_dotenv
+
+# Windows 터미널 한글/이모지 출력 인코딩 문제 해결
+# if sys.stdout.encoding != 'utf-8':
+#     try:
+#         sys.stdout.reconfigure(encoding='utf-8')
+#     except AttributeError:
+#         # Python 3.7 이전 버전 대응
+#         import io
+#         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # .env 파일 로드
 load_dotenv()
@@ -18,25 +32,77 @@ class InstaUploader:
         self.version = "v23.0"  # 최신 v23.0 규격 적용
         self.base_url = f"https://graph.instagram.com/{self.version}/{self.acc_id}"
         
-    def _make_public_url(self, local_path):
-        """로컬 파일을 인스타그램 서버가 접근할 수 있도록 일시적으로 공용 URL로 변환합니다."""
-        print(f"🌐 로컬 파일을 공용 URL로 변환 중: {os.path.basename(local_path)}")
+    def _preprocess_image(self, local_path):
+        """이미지를 인스타그램 권장 규격(PNG, 1080x1080)으로 보정합니다."""
+        print(f"🎨 이미지 규격 보정 중 (1080x1080 PNG): {os.path.basename(local_path)}")
         try:
-            with open(local_path, 'rb') as f:
-                files = {'fileToUpload': f}
-                data = {'reqtype': 'fileupload'}
-                # Catbox.moe 서비스를 이용한 일시적 호스팅
-                response = requests.post('https://catbox.moe/user/api.php', data=data, files=files)
-                if response.status_code == 200:
-                    public_url = response.text.strip()
-                    print(f"✅ 변환 완료: {public_url}")
+            img = Image.open(local_path)
+            # 투명도가 있을 경우 배경을 흰색으로 처리하여 RGB로 변환
+            if img.mode in ('RGBA', 'P'):
+                bg = Image.new('RGB', img.size, (255, 255, 255))
+                bg.paste(img, mask=img.split()[3] if img.mode == 'RGBA' else None)
+                img = bg
+            elif img.mode != 'RGB':
+                img = img.convert('RGB')
+            
+            # 인스타그램 권장 규격 1:1 리사이즈
+            img = img.resize((1080, 1080), Image.Resampling.LANCZOS)
+            
+            # 임시 파일 경로 설정 (가장 표준적인 PNG로 저장)
+            processed_path = local_path.replace(".png", "_insta.png").replace(".jpg", "_insta.png")
+            img.save(processed_path, "PNG", optimize=False)
+            return processed_path
+        except Exception as e:
+            print(f"⚠️ 전처리 실패 (원본 시도): {e}")
+            return local_path
+
+    def _make_public_url(self, local_path):
+        """로컬 이미지를 Catbox를 통해 공용 URL로 변환합니다. (Litterbox 제거하여 안정성 확보)"""
+        # 1. 이미지 전처리 수행
+        target_path = self._preprocess_image(local_path)
+        
+        print(f"🌐 Catbox를 통해 공용 URL 변환 시도 중...")
+        try:
+            with open(target_path, 'rb') as f:
+                # 인스타그램의 안정적인 크롤링을 위해 Litterbox(24h)로 우선 시도
+                url = "https://litterbox.catbox.moe/resources/internals/api.php"
+                files = {"fileToUpload": f}
+                data = {"reqtype": "fileupload", "time": "24h"}
+                res = requests.post(url, files=files, data=data)
+                
+                if res.status_code == 200:
+                    public_url = res.text.strip()
+                    print(f"🌐 임시 공개 URL 생성 완료 (Litterbox): {public_url}")
                     return public_url
                 else:
-                    print(f"❌ URL 변환 실패 (상태 코드: {response.status_code})")
-                    return None
+                    # 실패 시 Catbox(영구)로 대안 시도
+                    f.seek(0)
+                    url = "https://catbox.moe/user/api.php"
+                    data = {"reqtype": "fileupload"}
+                    res = requests.post(url, files={"fileToUpload": f}, data=data)
+                    if res.status_code == 200:
+                        public_url = res.text.strip()
+                        print(f"🌐 임시 공개 URL 생성 완료 (Catbox): {public_url}")
+                        return public_url
+                        
         except Exception as e:
-            print(f"❌ URL 변환 중 오류 발생: {e}")
-            return None
+            print(f"⚠️ Catbox 업로드 오류: {e}")
+                
+        return None
+
+    def _verify_url(self, url):
+        """생성된 URL이 실제로 유효한 이미지인지 확인합니다."""
+        try:
+            # 인스타그램 크롤러와 유사한 환경에서 테스트
+            headers = {'User-Agent': 'Facebot'} 
+            res = requests.head(url, headers=headers, timeout=10)
+            if res.status_code == 200:
+                content_type = res.headers.get('Content-Type', '')
+                if 'image' in content_type or url.lower().endswith(('.jpg', '.jpeg', '.png')):
+                    return True
+            return False
+        except:
+            return False
 
     def upload_image(self, image_source, caption=""):
         """이미지를 인스타그램에 게시합니다. (로컬 경로 또는 URL 모두 지원)"""
@@ -81,13 +147,22 @@ class InstaUploader:
 
         if "id" not in res:
             print(f"❌ 컨테이너 생성 실패: {res}")
+            import json
+            error_data = {
+                "step": "container_creation",
+                "timestamp": datetime.datetime.now().isoformat(),
+                "image_url": image_url,
+                "response": res
+            }
+            with open("graph_err.json", "w", encoding="utf-8") as f:
+                json.dump(error_data, f, indent=4, ensure_ascii=False)
             return None
             
         creation_id = res.get("id")
         print(f"⏳ 서버 처리 대기... (컨테이너 ID: {creation_id})")
         
-        # 인스타그램 서버 처리를 위해 대기
-        time.sleep(30) 
+        # 인스타그램 서버 처리를 위해 대기 (안전하게 45초)
+        time.sleep(45) 
 
         # 2. 최종 발행
         publish_res = requests.post(f"https://graph.instagram.com/{self.version}/{target_id}/media_publish", data={
@@ -97,6 +172,15 @@ class InstaUploader:
         
         if "id" not in publish_res:
             print(f"❌ 최종 발행 실패: {publish_res}")
+            # 에러 상세 기록
+            import json
+            error_data = {
+                "timestamp": datetime.datetime.now().isoformat(),
+                "image_url": image_url,
+                "response": publish_res
+            }
+            with open("graph_err.json", "w", encoding="utf-8") as f:
+                json.dump(error_data, f, indent=4, ensure_ascii=False)
             return None
             
         post_id = publish_res.get("id")

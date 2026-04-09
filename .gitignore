@@ -1,3 +1,51 @@
 .env
 __pycache__/
 *.pyc
+
+# Credentials & Tokens
+token.json
+client_secret*.json
+
+# Logs
+*.log
+*.txt
+error_report.txt
+proc.txt
+
+# Media & Temporary
+images/
+_OLD_MUSIC_BACKUP/
+node_modules/
+.agent/
+temp_log.txt
+*.png
+*.jpg
+*.tmp
+
+# Runtime Data & Backups
+*.json.bak
+*.lock
+current_pm2*.json
+pm2_*.json
+last_run.json
+graph_err.json
+
+# Test Scripts (Optional: keep if you want)
+test_*.py
+tmp_*.py
+upload_*.py
+debug_*.py
+recovery_test.py
+manual_upload_test.py
+check_*.js
+check_*.py
+get_*.py
+list_*.py
+make_*.js
+verify_*.py
+auto_*.py
+day11_*.py
+interaction_scheduler_plan_*.py
+.temp_test_genai.py
+generate_compilation.js
+health_check.js
